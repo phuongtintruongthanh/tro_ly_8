@@ -5,3 +5,948 @@ Chuyển về xưng hô em và sếp nhé, không xưng "bạn" nha (áp dung ch
 
 em  đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của chúng tôi (Em xưng hỗ là em và sếp cho than thiện nhé) :
 
+1.	Mức độ đáp ứng yêu cầu kỹ thuật của vật liệu xây dựng: 
+-	Các loại vật liệu, vật tư được nhà thầu sử dụng cho công trình trên cơ sở tuân thủ tiêu chuẩn kỹ thuật đưa ra trong Hồ sơ yêu cầu và bản vẽ thiết kế kỹ thuật thi công đã được phê duyệt. Trước khi đưa vào thi công phải được thí nghiệm đầu vào và phải được kỹ sư tư vấn giám sát đồng ý.
+-	Vật tư sẽ được tập kết đến công trường theo tiến độ và phù hợp với công việc thi công. Đảm bảo cung ứng đầy đủ vật tư cho công tác xây lắp công trình thông qua các hợp đồng mua bán vật tư với các nhà cung cấp.
+a.	Ximăng:
+-	Ximăng dùng cho công trình được sản xuất tại các nhà máy xi măng đảm bảo yêu cầu theo TCVN 2682-2009.
+-	Ximăng được vận chuyển đến chân công trình và lưu kho được bảo quản đúng tiêu chuẩn, không chất cao quá 10 bao, có tấm kê sàn kho. Các loại ximăng khi vận chuyển về kho phải được kê cao quá mặt sàn 30cm. Kho phải khô ráo, không được ẩm ướt trong mọi điều kiện thời tiết và bố trí thời gian lưu kho của ximăng là ít nhất.
+b.	Cốt thép:
+-	Cốt thép được sử dụng phải đảm bảo các chỉ số và tính năng kỹ thuật theo đúng hồ sơ thiết kế và TCVN 1651-2008, được lấy tại nhà cung cấp đóng tại địa bàn thành phố Đà Nẵng cung cấp. Trước khi đưa vào sử dụng, thép được cắt lấy mẫu đại diện để thử cường độ chịu kéo, chịu nén theo TCVN 197-85 và TCVN 198-85, thép phải đảm bảo yêu cầu kỹ thuật và được sự đồng ý của Chủ đầu tư mới đưa vào sử dụng.
+-	Thép và các kết cấu thép sau khi gia công được sắp xếp và bảo vệ tránh rỉ sét và dơ bẩn. Tùy theo tiến độ cung cấp vật tư để có kế hoạch sao cho thời gian lưu kho tại công trường không quá 3 tuần.
+c.	Cát các loại:
+-	Cát dùng để đổ bêtông, xây, trát, lát, ốp... được lấy tại các bãi khai thác trên địa bàn tỉnh Quảng Nam. Cát đảm bảo kích thước hạt đúng tiêu chuẩn đối với cát vàng để phục vụ cho công tác đổ bêtông và xây và đối với cát mịn phục vụ cho công tác hoàn thiện đảm bảo theo TCVN 337-85, TCVN 346-89 và TCVN 1770-86. Trước khi sử dụng phải sàng, rửa để loại bỏ tạp chất hữu cơ cũng như đất bùn.
+d.	 Đá dăm các loại:
+-	Nguồn đá dăm các loại được lấy tại các mỏ khai thác đá trên địa bàn tỉnh Quảng Nam. Trước khi sử dụng đá dăm được mang đi thí nghiệm để xác định độ ẩm, cường độ, đảm bảo không có tính kiềm theo TCVN 1771-86. Trên công trường đá dăm được rửa sạch sẽ, không được lẫn tạp chất. Các cỡ đá dăm phải đúng theo kích thước, đồng đều.
+e.	Gạch xây:
+-	Nguồn cung cấp gạch không nung lấy tại nhà máy tại huyện Đại Lộc, tỉnh Quảng Nam đảm bảo có cường độ theo đúng thiết kế, được vận chuyển đến công trình theo tiến độ thi công. Gạch trước khi đem vào thi công phải được thí nghiệm vật liệu đầu vào, phù hợp với tiêu chuẩn hiện hành.
+f.	Tôn lợp mái:
+-	Tôn lợp mái được mua trên địa bàn thành phố Đà Nẵng, đảm bảo đúng chủng loại, kích thước, màu sắc và độ dày như đã cam kết trong hồ sơ dự thầu.
+-	Trước khi đưa vào công trình nhà thầu phải trình mẫu và được sự đồng ý của Chủ đầu tư và Tư vấn giám sát.
+g.	Sơn:
+-	Sơn nước sử dụng cho công trình được mua tại Đà Nẵng và vận chuyển đến công trình, đảm bảo đúng chủng loại theo bảng cam kết đề xuất vật tư. Vật tư có chứng chỉ xuất xưởng, chứng chỉ cất lượng phù hợp với tiêu chuẩn xây dựng hiện hành.
+h.	Vật liệu chống thấm:
+-	Vật liệu chống thấm nhà thầu sử dụng vật liệu chống thấm của hãng Sika. Được mua tại Đà Nẵng và vận chuyển đến công trình. Vật tư có chứng chỉ xuất xưởng, chứng chỉ chất lượng phù hợp với tiêu chuẩn xây dựng hiện hành.
+i.	Đá granit các loại:
+-	Đá granit sử dụng cho công trình sử dụng đá granit Bình Định, có chứng chỉ xuất xưởng, chứng chỉ chất lượng trước khi đưa vào sử dụng.
+j.	Gạch ốp lát các loại:
+-	Gạch ốp lát nhà thầu sử dụng theo đúng hồ sơ thiết kế bản vẽ thi công, có chứng chỉ xuất xưởng, chứng chỉ chất lượng trước khi đưa vào sử dụng. Vật tư phù hợp với tiêu chuẩn xây dựng hiện hành.
+k.	Cửa các loại:
+-	Cửa các loại đưa vào công trình phải có nguồn gốc rõ ràng, có nhãn mác và trong thời hạn sử dụng, đảm bảo chất lượng và TCVN. Trước khi đưa vào công trình phải trình mẫu cho cán bộ Tư vấn giám sát, cán bộ chủ đầu tư để xét duyệt.
+l.	Vật tư, thiết bị điện, cấp thoát nước, chống sét và thiết bị vệ sinh...
+-	Mua tại các cơ sở có tín nhiệm và đảm bảo đầy đủ chứng chỉ, nhãn mác theo đúng quy định của hồ sơ thiết kế. Vật tư mua ở nguồn nào thì cố định tại nguồn đó để dễ kiểm soát nguồn gốc cũng như chất lượng vật liệu.
+m.	Các loại vật tư hoàn thiện
+-	Căn cứ theo hồ sơ mời thầu, bản vẽ thiết kế thi công và hợp đồng thi công xây dựng nhà thầu sẽ trình mẫu đến Chủ đầu tư, tư vấn giám sát để chốt mẫu mã và chủng loại vật liệu sử dụng cho gói thầu
+-	Vật tự hoàn thiện được mua ở các đại lý trên thị trường tỉnh Quảng Nam và thành phố Đà Nẵng và đảm bảo chất lượng, chủng loại, mẫu mã đã được phê duyệt.
+-	Cam kết vật liệu sử dụng cho gói thầu tuân thủ theo yêu cầu của Hồ sơ mời thầu:
+     (Xem bảng kê cam kết nguồn gốc, xuất xứ các loại vật tư, thiết bị đưa vào sử dụng)
+2.	Biện pháp tổ chức, công nghệ thi công chi tiết:
+2.1. Tổ chức mặt bằng công trường: 
+-	Mặt bằng sau khi tiếp nhận từ Chủ đầu tư, các mốc, cao trình, các trục định vị được xác lập theo hồ sơ thiết kế, căn cứ vào tính chất, quy mô công trình và yêu cầu về tiến độ hoàn thành công trình như điều kiện, đặc điểm công trình và khả năng huy động tại chỗ, chúng tôi tiến hành lập kế hoạch tổ chức thi công đảm bảo tính hợp lý khoa học phù hợp với điều kiện thực tế đó. Tổ chức mặt bằng thi công đảm bảo theo các yêu cầu sau:
+-	Mặt bằng thi công bố trí hợp lý khoa học và thuận tiện cho công tác xây lắp, không gây trở ngại trong việc triển khai thi công các công việc khác nhau và sự di chuyển của các thiết bị, phương tiện thi công theo từng giai đoạn thi công.
+-	Đảm bảo an toàn về người, thiết bị và tài sản tại công trường cũng như tài sản của nhân dân ở khu vực xung quanh công trường.
+-	Làm tốt công tác vệ sinh môi trường trong quá trình thi công cũng như đến khi hoàn tất công trình. Đảm bảo tốt việc lưu thông của các phương tiện tham gia giao thông ngoài cũng như trong công trường.
++ Khu vực thi công được làm rào chắn bảo vệ khu vực thi công, bố trí cổng chính để kiểm soát vật tư, thiết bị ra vào công trường.
++ Nhà làm việc của Ban chỉ huy công trường và của các bộ phận thi công, nhà ở của cán bộ và công nhân tại hiện trường tuỳ thuộc vào lực lượng công nhân ở xa được điều động đến.
++ Phòng thí nghiệm hiện trường được bố trí gần ban chỉ huy công trình, phù hợp cho việc lấy mẫu và thí nghiệm vật liệu trực tiếp tại hiện trường.
++ Kho xi măng, sắt thép, côp pha, các thiết bị thi công nhỏ bố trí phù hợp với kế hoạch tiến độ, biện pháp tổ chức thi công, các hạng mục và các phần việc trên công trình.
++ Việc tập kết vật liệu ngoài trời: cát, đá, gạch bố trí tại những nơi gần công trình nhất để giảm giá thành trong thi công, tăng năng suất lao động đẩy nhanh tiến độ thi công công trình, các lán trại tạm đều có thiết kế, chế tạo định hình có thể lắp dựng, tháo dỡ và vận chuyển dể dàng do đó chi phí cho công tác này rẻ vì thế chúng tôi đảm bảo giảm giá thành thi công công trình theo gía trị dự thầu
++ Chúng tôi bố trí các thiết bị phục vụ thi công tại vị trí cố định sao cho trong suốt cả quá trình thi công công trình không phải di chuyển nó như: máy trộn bêtông, bể nước, máy phát điện, máy bơm nước.
++ Đường di chuyển của các thiết bị di động như: ôtô, máy đào, máy đầm được bố trí sẵn trên mặt bằng tổ chức thi công, đường giao thông được thiết kế đảm bảo tiêu chuẩn đường giao thông nội bộ phục vụ công trình đảm bảo không gây trở ngại và chồng chéo trong việc thi công toàn bộ công trình và được sử dụng trong cả thời gian thi công công trình đó.
+a.	Hệ thống điện nước phục vụ thi công - sinh hoạt:
+-	Điện: tuỳ thuộc vào vị trí công trình, điều kiện thực tế và khả năng cho phép mà có kế hoạch sử dụng điện hợp lý. Chúng tôi sẽ liên hệ và hợp đồng với cơ quan quản lý điện để tổ chức mạng lưới điện phù hợp với từng loại thiết bị máy móc, điện chiếu sáng phục vụ thi công và sinh hoạt trên công trường. Để chủ động trong thi công chúng tôi sẽ có bố trí dự phòng một máy phát điện phục vụ cho công tác chiếu sáng đồng thời dự phòng các máy thi công tự hành như máy trộn, máy đầm tự hành và các thiết bị cầm tay khác khi không có điện cung cấp cho công trình.
+-	Nước thi công và sinh hoạt: chúng tôi sử dụng các nguồn nước hiện có tại công trình đảm bảo theo yêu cầu của hồ sơ mời thầu hoặc có thể sử dụng giếng khoan tại công trình để cấp nước cho thi công. Tại công trình chúng tôi sẽ bố trí các bể chứa nước dự trữ cố định và di động nhằm chủ động lượng nước phục vụ cho công trình trong suốt quá trình thi công mà không bị trở ngại do các yếu tố khách quan có thể xảy ra. Các nguồn nước này sẽ được kiểm tra thoả mãn các yêu cầu về chất lượng nước phục vụ chi công tác xây lắp theo yêu cầu của hồ sơ mời thầu và được sự chấp thuận của Cán bộ giám sát tư vấn giám sát (Có bản vẽ bố trí tổng mặt bằng đính kèm).
+b.	Bố trí nhân lực, thiết bị phải phù hợp với tiến độ thi công đã đề xuất:
+-	Nhân sự huy động cho công trường căn cứ theo tình hình công việc của tiến độ thi công và thực tế tại công trường.
+-	Công nhân vào công trường thi công phải có đầy đủ áo, mũ và dày bảo hộ, phải học lớp an toàn lao động do công trường tổ chức
+-	Bố trí thiết bị thi công phải phụ thuộc theo từng loại công việc và từng giai đoạn của công trình để bố trí thiết bị cho phù hợp.
+-	Các loại thiết bị đưa vào công trình phải có giấy tờ kiểm định chất lượng của cơ quan cóa thẩm quyền, đồng thời báo cáo với đơn vị tư vấn, được sự đồng ý của đơn vị tư vấn giám sát.
+2.2.  Biện pháp thi công phá dỡ sân nền, chặt phá 2 cây đường kính >50cm:
+a.	Biện pháp phá dỡ bê tông nền:
+Yêu cầu kỹ thuật:
+-	Phá dỡ đúng phạm vi, đúng chiều sâu theo hồ sơ thiết kế.
+-	Không làm ảnh hưởng đến các bộ phận khác.
+-	Đảm bảo an toàn, hạn chế tối đa bụi, tiếng ồn và rung chấn trong khu vực.
+-	Phế thải sau phá dỡ phải được thu gom và vận chuyển đúng quy định.
+Thiết bị, dụng cụ thi công:
+-	Máy đào gắn búa thủy lực.
+-	Xe ben hoặc xe tải nhỏ để vận chuyển phế thải
+-	Dụng cụ hỗ trợ: xẻng, cuốc, xe rùa, vòi nước tưới bụi
+-	Dụng cụ bảo hộ cá nhân: nón bảo hộ, kính bảo hộ, khẩu trang, găng tay, giày an toàn.
+Trình tự thi công:
+Bước 1: Chuẩn bị
+-	Xác định phạm vi thi công: Cắm mốc và đánh dấu khu vực cần phá dỡ theo bản vẽ hoặc yêu cầu thực tế.
+-	Rào chắn và biển báo: Dựng hàng rào tôn/lưới thép xung quanh, đặt biển báo nguy hiểm, cấm vào khu vực thi công.
+-	Kiểm tra máy móc: Kiểm tra tình trạng hoạt động của máy đào, búa thủy lực, hệ thống thủy lực và an toàn thiết bị trước khi vận hành.
+-	Tưới nước mặt nền: Phun ẩm lớp bê tông để giảm bụi trong quá trình thi công.
+Bước 2: Thi công phá dỡ bê tông
+-	Di chuyển máy đào gắn búa vào khu vực thi công, thực hiện phá dỡ từ ngoài vào trong hoặc từ cao xuống thấp nếu có chênh cốt.
+-	Búa thủy lực tác động trực tiếp lên mặt bê tông, phá vỡ kết cấu thành từng mảng nhỏ.
+-	Di chuyển máy theo trình tự hợp lý để đảm bảo không bỏ sót và tránh va chạm thiết bị vào các công trình liền kề.
+-	Các khu vực sát mép tường, móng hoặc nơi không đủ không gian máy đào tiếp cận, sẽ được thi công thủ công bằng máy đục cầm tay.
+Bước 3: Thu gom và vận chuyển phế thải
+-	Dùng xẻng, cuốc và máy xúc mini hoặc thủ công để gom vật liệu bê tông đã phá.
+-	Vận chuyển bằng xe ben nhỏ ra khỏi công trường, đổ đúng bãi thải được cấp phép.
+-	Làm sạch bề mặt nền sau khi hoàn tất công tác phá dỡ.
+b.	Biện pháp chặt phá 2 cây đường kính >50cm:
+Trình tự thi công:
+Bước 1: Chuẩn bị
+-	Khảo sát hiện trạng: Đo đạc chiều cao, tán cây, hướng đổ, xác định công trình lân cận, dây điện, xe cộ.
+-	Rào chắn & biển báo: Khoanh vùng khu vực thi công, đặt rào chắn, biển cảnh báo nguy hiểm.
+-	Chuẩn bị dây neo: Dùng dây cáp và ròng rọc buộc lên thân cây để điều khiển hướng đổ hoặc từng đoạn khi cắt.
+Bước 2: Cắt và hạ tán cây
+-	Cắt từng đoạn: Leo lên thân cây (có dây đai an toàn) và cắt tỉa cành nhánh lớn trước.
+-	Dùng dây hãm và cẩu hỗ trợ: Cắt từng đoạn thân cây từ trên xuống (mỗi đoạn ~1m – 1.5m) để tránh đổ tự do.
+-	Hạ đoạn thân xuống đất bằng dây hãm hoặc cẩu nhẹ.
+-	Tránh làm đổ nguyên thân cây một lần gây nguy hiểm.
+Bước 3: Đào và phá gốc cây
+-	Dùng xà beng, cuốc, xẻng hoặc máy đào mini để đào quanh gốc (rộng khoảng 1–1.2m).
+-	Chặt đứt rễ lớn bằng cưa hoặc rìu.
+-	Kéo bật gốc bằng tay hoặc máy đào hỗ trợ (nếu điều kiện cho phép).
+Bước 4: Vận chuyển & dọn dẹp
+-	Phân loại: Cành nhỏ, thân cây, gốc được chia và chất lên xe tải.
+-	Vận chuyển: Đưa ra nơi tập kết hoặc xử lý theo hướng dẫn của chủ đầu tư.
+-	Dọn dẹp khu vực: Quét dọn, tưới nước chống bụi, đảm bảo sạch sẽ.
+2.3. Biện pháp thi công hạng mục xây mới nhà hiệu bộ và khu vệ sinh gồm các phần:
+2.3.1.	Biện pháp thi công móng, bể tự hoại:
+a.	Công tác đào đất hố móng:
+-	Công tác đất được tuân thủ theo TCVN 4447-1987 “Công tác đất. Quy phạm và thi công nghiệm thu”.
+-	Biện pháp thi công đào móng được chọn là dùng máy kết hợp thủ công để thi công đào đất hố móng. Dùng máy đào đất đến cách cốt thiết kế khoảng 200mm thì dừng lại, sau đó tiến hành sửa hoàn thiện hố móng bằng thủ công đến cốt thiết kế. Đất đào được tập kết xung quanh công trình để lấp đất lại móng sau này.
+-	Trong quá trình đào thường xuyên kiểm tra lại tim, trục, cốt đáy móng bằng máy kinh vĩ và máy thuỷ bình.
+-	Sau khi đào xong, dùng máy trắc đạc kiểm tra lại tim, cốt, dùng thước kiểm tra lại kích thước hình học các hố móng. Nếu đạt yêu cầu thì chuyển tiếp sang công đoạn tiếp theo. 
+b.	Công tác đắp đất hố móng:
+-	Công tác đắp đất hố móng được thực hiện sau khi bê tông móng và giằng móng đã được nghiệm thu và cho phép chuyển bước thi công. Thi công đắp đất hố móng bằng máy kết hợp với thủ công. Đất lấp móng được chia thành từng lớp dày từ 20-25cm, đầm chặt bằng máy đầm cóc đến độ chặt, kết hợp đầm thủ công ở các góc cạnh.
+-	Giải pháp thi công xử lý phần đất đào móng nhằm giữ lại đất để đắp nền; 
+-	Một phần đất đào móng được tận dụng đắp nền, phần đất tận dụng đắp nền phải đảm bảo sạch tạp chất, đảm bảo cường độ tiêu chuẩn về cơ lý của đất đắp nền.
+-	Khi đào móng phải được tập kết ở vị trí thuận lợi cho việc thi công các hạng mục khác.
+-	Bãi tập kết phải có hệ thống thu gom nước thoát ra trong đất nhằm đảm bảo vệ sinh môi trường.
+-	Trước khi sử dụng đắp nền phải báo với tư vấn giám sát và được sự đồng ý của tư vấn giám sát mới sử dụng đắp nền móng công trình.
+-	Giải pháp thi công phần thân, hệ thống khung bê tông cốt thép chịu lực, hệ thống sàn bê tông cốt thép, …
+c.	Công tác thi công cốp pha móng, giằng móng: 
+-	Giải pháp cốp pha, dàn giáo cho công trình là cốp pha phin, dàn giáo thép định hình. Ngoài ra còn kết hợp với cốp pha và cây chống thép để lắp dựng cho các kết cấu nhỏ, lẻ. 
+ Yêu cầu kỹ thuật của cốp pha:
+-	Cốp pha và đà giáo được thiết kế và thi công phải đảm bảo độ cứng, ổn định, dể tháo lắp, không gây khó khăn cho việc đặt cốt thép, đổ và đầm bê tông.
+-	Cốp pha phải được ghép kín, khít để không làm mất nước ximăng khi đổ và đầm bê tông, đồng thời bảo vệ được bê tông mới đổ dưới tác động của thời tiết.
+-	Cốp pha dầm, sàn được ghép trước lắp đặt cốt thép; cốp pha móng, cột, tường bể nước, được ghép sau khi lắp đặt cốt thép.
+d.	Công tác thi công cốt thép móng, giằng móng: Các yêu cầu kỹ thuật:
+-	Cốt thép đưa vào thi công là thép đạt được các yêu cầu của thiết kế, có chứng chỉ kỹ thuật kèm theo và cần lấy mẫu thí nghiệm kiểm tra theo TCVN 1651: 2008
+-	Cốt thép trước khi gia công và trước khi đổ bê tông cần đảm bảo:
++ Bị mặt sạch, không dính bùn đất, dầu mỡ, không có vẩy sắt và các lớp gỉ.
++ Các thanh thép không bị bẹp, bị giảm tiết diện do làm sạch hoặc các nguyên nhân khác không vượt quá giới hạn cho phép là 2% đường kính. Nếu vượt quá giới hạn này thì loại thép đó được sử dụng theo diện tích tiết diện thực tế còn lại.
++ Cốt thép cần được kéo, uốn và nắn thẳng.
++ Cốt thép sau khi gia công lắp dựng vẫn phải đảm bảo đúng hình dạng kích thước, đảm bảo chiều dày lớp bảo vệ.
+Gia công cốt thép:
+-	Công việc nắn thẳng cốt thép: Để kéo thép cuộn tròn thành thanh thẳng và nắn thẳng các thanh thép lớn bị cong trước khi cắt hoặc uốn. Đối với thép cuộn tròn trơn dùng tời điện để kéo thẳng cốt thép (gia công các giá đỡ cuộn thép, các kẹp hoặc móc để kẹp đầu thanh thép giữ cho thép không bị xoắn khi tháo ra). Các thanh thép lớn bị cong thì dùng máy kết hợp với thủ công để nắn thép cho thẳng.
+-	Lấy mức cốt thép: Nếu uốn cong 45 độ thì thép sẽ dãn dài ra 0,5d, uốn cong 90 độ thì thép sẽ dãn dài ra thêm 1d và 180 độ thì dãn dài ra thêm 1,5d để ta lấy mức cho phù hợp với từng thanh thép cho các cấu kiện.
+-	Cắt cốt thép: Tùy theo đường kính của cốt thép mà dùng sức người hay dùng máy để cắt, cụ thể như sau:
++ Dùng kéo cắt để cắt thép cho loại thép có đường kính <=10mm.
++ Dùng máy cắt cho loại thép có đường kính =>10mm.
+-	Uốn cốt thép: Tùy thuộc vào từng cầu kiện, hình dạng mà uốn cốt thép theo yêu cầu của thiết kế, cụ thể:
++ Với cốt thép <Φ16 đơn vị sẽ uốn bằng tay.
++ Đối với thép >Φ16 đơn vị sẽ dùng máy để uốn cốt thép.
+-	Nối buộc cốt thép: Nối buộc thép phải phù hợp TCVN 4453-95. Thực hiện theo đúng bản vẽ thiết kế, không nối ở các vị trí chịu lực lớn và chỗ uốn cong, trong một mặt cắt ngang của tiết diện kết cấu không nối quá 25% diện tích tổng cộng của cốt thép chịu lực đối với thép tròn trơn và không quá 50% đối với thép có gờ. Chiều dài mối nối buộc của cốt thép chịu lực khung và lưới thép không nhỏ hơn 250mm với thép chịu lực kéo, và không nhỏ hơn 200 mm đối với thép chịu nén. Nối buộc thép ở vùng chịu kéo đối với thép tròn trơn phải uốn móc, trong các mối nối buộc ít nhất là 3 mối (giữa và hai đầu).
++ Đối với thép tròn cán nóng chiều dài nối buộc vùng chịu kéo là 40d đối với dầm, tường và 30d đối với cấu kiện khác. Vùng chịu nén có chiều dài nối buộc là 20d đối với đầu thép có móc, 30d đối với thép không có móc.
++ Với thép gờ cán nguội chiều dài nối buộc vùng chịu kéo là 40d đối với dầm, tường và 35d đối với cấu kiện khác. Chiều dài nối buộc vùng chịu nén là 20d đối vơi đầu thép có móc, 30d đối với thép không có móc.
++ Khi nối buộc cốt thép vùng chịu kéo phải uốn móc đối với thép tròn trơn, thép có gờ không cần uốn móc.
++ Đối với dây thép buộc dùng dây thép mịn đường kính 1mm.
+Bảo quản cốt thép sau khi gia công:
+-	Sau khi gia công, cốt thép được bó thành bó có đánh số và xếp thành từng đống theo từng loại riêng biệt để tiện sử dụng.
+-	Các đống được để ở cao 30 cm so với mặt nền kho để tránh bị gỉ. Chiều cao mỗi đống <1,2m, rộng < 2m.
+Vận chuyển và lắp dựng cốt thép:
+-	Cốt thép buộc theo các lô, chủng loại và số lượng của từng cấu kiện để tránh nhầm lẫn khi đưa vào sử dụng và dễ vận chuyển.
+-	Do bố trí xưởng gia công ngay tại công trình nên việc vận chuyển cốt thép đến tại các vị trí công trình rất thuận lợi. Để vận chuyển thép lên cao sẽ dùng phương án: dùng cẩn cẩu kết hợp thủ công để vận chuyển thép theo phương đứng.
+-	Khi vận chuyển phải nhẹ nhàng tránh làm hư hỏng hoặc biến dạng cốt thép đã gia công. 
+-	Trước khi lắp dựng thanh nào bị gỉ, bám bẩn phải được cạo, vệ sinh sạch sẽ.
+-	Lắp đặt cốt thép đúng vị trí, đúng số lượng, quy cách theo thiết kế cụ thể cho từng kết cấu.
+-	Lắp đặt phải đảm bảo chiều dày lớp bảo vệ (dùng các con kê bằng bêtông).
+-	Đảm bảo khoảng cách giữa các lớp cốt thép (dùng trụ đỡ bằng bê tông hoặc cốt thép đuôi cá).
+-	Với các thanh vượt ra ngoài khối đổ phải được cố định chắc chắn tránh rung động làm sai lệch vị trí.
+Kiểm tra nghiệm thu cốt thép:
+-	Sau khi lắp dựng xong cốt thép vào công trình (cụ thể cho từng cấu kiện) thì tiến hành kiểm tra và nghiệm thu cốt thép theo các phần sau:
++ Hình dáng kích thước, quy cách.
++ Vị trí cốt thép trong từng kết cấu do thiết kế quy định.
++ Sự ổn định và bền chắc của cốt thép.
++ Số lượng, chất lượng các bản kê làm đệm giữa cốt thép với ván khuôn.
+e.	Đổ bê tông móng, giằng móng:
++ Bê tông được sử dụng là bê tông đá 1x2, M250. Bê tông được trộn theo đúng thành phần cấp phối được nghiệm thu.
++ Bê tông được trộn bằng máy trộn và đổ thủ công.
++ Đối với hố móng, cổ móng dùng màng tôn để đưa bê tông xuống hố móng.
++ Đối với giằng móng dùng xe rùa vận chuyển và đổ bê tông vào giằng móng.
++ Chiều cao rơi tự do của bê tông từ 1m đến 1,5m để bê tông không bi phân tầng.
++ Đầm được đưa vào trong để đầm theo phương thẳng đứng, khi đầm chú ý đầm kỹ các góc, khi đầm không được để chạm cốt thép.
++ Đổ bê tông móng, đổ từng lớp và đầm dùi kỹ.
++ Tiến hành đúc mẫu để thí nghiệm hiện trường.
++ Mạch ngừng thi công trong công tác thi công bê tông giằng móng: Nhà thầu sẽ bố trí mạch ngừng thi công như sau:
+	Trong trường hợp không thể thi công liên tục như thời tiết xấu... thì nhà thầu sẽ bố trí mạch ngừng thi công theo quy định, quy phạm của bê tông.
+	Trước khi thi công đổ bê tông tiếp thì mạch ngừng phải được đục nhám kỹ và thổi sạch, sau đó tưới nước xi măng lên bề mặt tiếp giáp giữa 2 lớp mới và cũ để đảm bảo tính liên kết toàn khối của bê tông.
+f.	Biện pháp thi công bể tự hoại:
+Công tác đổ bê tông lót đáy bể tự hoại (đá 4x6, mác 150)
+•	Chuẩn bị: Dọn dẹp hố đào sạch sẽ, tưới ẩm đáy hố.
+•	Cốt liệu: Đá 4x6 sạch, không lẫn tạp chất.
+•	Thi công:
+o	Dùng bê tông trộn tay theo cấp phối mác 150.
+o	Đổ bê tông dày 100mm đều khắp đáy hố, san phẳng bằng thước nhôm, dùng đầm bàn hoặc đầm tay để đảm bảo chặt.
+•	Bảo dưỡng: Che phủ và tưới nước bảo dưỡng liên tục tối thiểu 3 ngày.
+Công tác đổ bê tông đáy bể tự hoại (đá 1x2, mác 250)
+•	Chuẩn bị: Sau khi lớp bê tông lót đạt cường độ tối thiểu, vệ sinh sạch bề mặt lót và tưới ẩm.
+•	Cốt liệu: Đá 1x2, cát vàng sạch, xi măng PC40.
+•	Cốt thép (nếu có): Gia công, lắp dựng cốt thép đáy đúng bản vẽ thiết kế.
+•	Thi công:
+o	Đổ bê tông mác 250 dày từ 100mm–150mm.
+o	Sử dụng đầm dùi rung đều để đảm bảo độ đặc chắc.
+o	Cán phẳng bằng bàn xoa.
+•	Bảo dưỡng: Tưới nước giữ ẩm bề mặt từ 7–10 ngày sau khi đổ.
+Công tác xây thành bể tự hoại bằng gạch đặc không nung
+•	Vật liệu: Gạch đặc không nung đạt cường độ ≥75kg/cm², vữa xi măng cát vàng mác 75 (XM : cát = 1:4).
+•	Thi công:
+o	Xây tường dày theo thiết kế (tường 110mm hoặc 220mm tùy quy mô), dùng dây căng, thước nivo kiểm tra thẳng đứng và cao độ.
+o	Các hàng gạch xây đan xen, so le mạch, mạch vữa đầy đặn.
+o	Có để chừa lỗ ống xả, ống thông hơi theo đúng vị trí thiết kế.
+•	Bảo dưỡng: Phun nước giữ ẩm 3–5 ngày sau xây.
+Công tác tô trát trong và ngoài bể
+•	Vữa tô: Vữa xi măng cát vàng mác 75 hoặc mác 100 (tỷ lệ 1:3 – 1:4).
+•	Tô mặt trong:
+o	Tưới ẩm bề mặt tường gạch.
+o	Tô 2 lớp (lớp lót và lớp hoàn thiện), độ dày trung bình 10–15mm.
+o	Dùng bay ép sát, miết kỹ đảm bảo bề mặt nhẵn mịn, không rỗ, không nứt chân chim.
+o	Bổ sung thêm lớp chống thấm (nếu có) theo thiết kế bằng Sika hoặc phụ gia chống thấm khác.
+•	Tô mặt ngoài:
+o	Tô hoàn thiện tương tự mặt trong.
+o	Tăng độ dốc thoát nước bề mặt nếu bể nổi.
+•	Bảo dưỡng: Phun nước giữ ẩm sau khi tô từ 2–3 ngày.
+Công tác lắp đặt tấm đan nắp bể tự hoại
+•	Chuẩn bị: Làm gờ đỡ nắp bằng bê tông cốt thép hoặc gạch xây vững chắc.
+•	Tấm đan nắp:
+o	Có thể dùng tấm đan bê tông cốt thép đúc sẵn (dày 80–100mm), có tay xách để mở.
+o	Hoặc nắp composite tùy theo điều kiện thiết kế.
+•	Lắp đặt:
+o	Đặt tấm đan đúng vị trí miệng bể, kiểm tra độ kín khít, dễ tháo mở.
+o	Có thể trám keo chống thấm hoặc vữa xi măng quanh mép nắp.
+•	Hoàn thiện: Làm miệng nắp phẳng, sạch sẽ, có thể dán ron hoặc lớp bảo vệ (nếu yêu cầu mỹ quan).
+2.3.2.	Biện pháp thi công phần thân:
+a.	Công tác ván khuôn cấu kiện phần thân:
+a.1. Ván khuôn cột.
+-	Trước khi tiến hành lắp ván khuôn cột, tiến hành định vị vị trí của cột bằng máy toàn đạc điện tử.  
+-	Gia công ván khuôn thành từng mảng có kích thước bằng kích thước của 1 mặt cột.
+-	Ghép các mảng theo kích thước cụ thể của từng cột.
+-	Dùng gông (bằng thép hoặc gỗ cố định), khoảng cách các gông khoảng 50cm.
+-	Chú ý: phải để cửa sổ để đổ bê tông, chân cột có trừa lỗ để vệ sinh trước khi đổ bê tông.
+•	Cách lắp ghép:
+-	Vạch mặt cắt cột lên chân sàn, nền.
+-	Ghim khung cố định chân cột bằng các đệm gỗ đặt sẵn trên bề mặt giằng móng để làm cữ.
+-	Dựng lần lượt các mảng phía trong rồi đến các mảng phía ngoài rồi đóng đinh liên kết 4 mảng với nhau, lắp gông và nêm chặt.
+-	Dùng dây dọi kiểm tra độ thẳng đứng của cột.
+-	Cố định ván khuôn cột bằng các neo hoặc cây chống.
+a.2. Ván khuôn dầm.
+Gồm 2 ván khuôn thành và 1 ván khuôn đáy. Cách lắp dựng như sau:
+-	Xác định tim dầm.
+-	Rải ván lót để đặt chân cột.
+-	Đặt cây chống chữ T, đặt 2 cây chống sát cột, cố định 2 cột chống, đặt thêm một số cột dọc theo tim dầm.
+-	Rải ván đáy dầm trên xà đỡ cột chống T, cố định 2 đầu bằng các giằng .
+-	Đặt các tấm ván khuôn thành dầm, đóng đinh liên kết với đáy dầm, cố định mép trên bằng các gông, cây chống xiên, bu lông.
+-	Kiểm tra tim dầm, chỉnh cao độ đáy dầm cho đúng thiết kế bằng máy kinh vĩ, thuỷ bình.
+a.3. Ván khuôn sàn:
+-	Dùng ván khuôn gỗ phin đặt trên hệ dàn giáo ống thép (giàn giáo nêm) chịu lực bằng thép và hệ xà gồ bằng gỗ, dùng tối đa diện tích ván khuôn.
+-	Theo chu vi sàn có ván diềm ván diềm được liên kết đinh con đỉa vào thành ván khuôn dầm và dầm đỡ ván khuôn dầm.
+-	Kiểm tra cao độ đáy sàn cho đúng thiết kế bằng máy thủy bình.
+a.4.  Công tác tháo dỡ ván khuôn:
+-	 Cốp pha đà giáo chỉ được tháo dỡ khi bê tông đạt được cường độ cần thiết để kết cấu chịu được trọng lượng bản thân và các tải trọng tác động khác trong giai đoạn thi công sau. Khi tháo dỡ cốp pha, đà giáo tránh gây ứng suất đột ngột hoặc va chạm mạnh đến kết cấu bê tông.
+-	 Các bộ phận cốp pha, đà giáo không còn chịu lực sau khi bê tông đã đóng rắn (cốp pha thành dầm, cột) có thể được tháo dỡ khi bê tông đạt cường độ trên 50%daN/cm2.
+-	 Kết cấu ô văng, công xôn, sê nô chỉ được tháo cột chống và cốp pha đáy khi cường độ bê tông đủ mác thiết kế và đã có đối trọng chống lật.
+-	 Khi tháo dỡ cốp pha đà giáo ở các tấm sàn đổ bê tông toàn khối nên thực hiện như sau:
+-	Đối với cốp pha đà giáo chịu lực của kết cấu (đáy dầm, sàn, cột chống) được tháo dỡ khi bê tông đạt cường độ tuân thủ theo TCVN 4453:1995.
+-	Việc chất tải từng phần lên kết cấu sau khi tháo dỡ cốp pha, đà giáo cần được tính toán theo cường độ cường độ bê tông đã đạt được, loại kết cấu và đặc trưng tải trọng để tránh các vết nứt và các hư hỏng khác đối với kết cấu.
+-	Việc chất tải toàn bộ lên các kết cấu sau khi tháo dỡ cốp pha, đà giáo chỉ được thực hiện khi bê tông đã đủ cường độ thiết kế.
+b.	Lắp đặt cốt thép phần thân:
+b.1. Lắp dựng cốt thép cột:
++ Kiểm tra vị trí cột.
++ Cốt thép có thể được gia công thành khung sẵn rồi đưa vào ván khuôn đã ghép trước 3 mặt.
++ Trường hợp dựng buộc tại chỗ thì bắt đầu từ thép móng, đặt cốt thép đúng vị trí rồi nối bằng buộc hoặc hàn, lồng cốt đai từ trên xuống và buộc với thép đứng theo thiết kế. Chú ý phải đảm bảo chiều dày lớp bảo vệ.
++ Lắp dựng cốt thép dầm:
++ Chọn một số mẩu gỗ kê ngang ván khuôn để đỡ thép.
++ Với các thanh nối thì phải chọn chỗ có mô men uốn nhỏ nhất.
++ Dùng thước gỗ đánh dấu vị trí cốt đai vào, nâng hai thanh thép chịu lực lên chạm khít cốt đai rồi buộc, buộc hai đầu vào giữa, xong lại đổi 2 thanh thép dưới lên buộc tiếp.
++ Sau khi buộc xong cốt đai thì hạ khung thép vào ván khuôn, hạ từ từ bằng cách rút dần các thanh gỗ kê ra.
+b.2. Lắp dựng cốt thép sàn:
++ Rải thép lên ván khuôn rồi mới đưa từng thanh vào vị trí thiết kế. 
++ Cố định vị trí cốt thép bằng các con kê bêtông có chiều dày bằng đúng lớp bê tông bảo vệ đặt tại các vị trí thích hợp. 
++ Cốt thép phải được thi công theo đúng thiết kế, bộ phận lắp trước không trở ngại bộ phận lắp sau và phải được kiểm tra nghiệm thu trước khi đổ bê tông. Trong quá trình đổ bê tông cốt thép luôn được giám sát chặt chẽ, không được để sai lệch kích thước hình học ban đầu.
+-	Lắp dựng cốt thép cầu thang bộ: (tương tự lắp dựng cốt thép dầm, sàn).
+c.	Công tác thi công bê tông:
+c.1. Vệ sinh ô đổ đối với bê tông cột:
+-	Kiểm tra lần cuối kích thước các bộ phận.
+-	Dọn sạch sẽ rác bẩn trong ô đổ, các chỗ không bằng phẳng thì phải san sửa lại cho phẳng.
+-	Với các ô đổ còn bẩn thì dùng nước rửa sạch (nhưng không để nước đọng lại trên bề mặt).
+c.2. Đổ bê tông:
+-	Trước khi đổ bê tông: kiểm tra lại hình dáng, kích thước, khe hở của ván khuôn. Kiểm tra cốt thép, sàn giáo, sàn thao tác. Chuẩn bị các ván gỗ để làm sàn công tác.
+-	Chiều cao rơi tự do của bê tông không quá 1,5m - 2m để tránh phân tầng bê tông.
+-	Khi đổ bê tông phải đổ theo trình tự đã định, đổ từ xa đến gần, từ trong ra ngoài, bắt đầu từ chỗ thấp trước, đổ theo từng lớp, xong lớp nào đầm lớp ấy. 	
+-	Dùng đầm bàn cho sàn, đầm dùi cho cột, dầm, tường.
+-	Chiều dày lớp đổ bê tông tuân theo bảng 16 TCVN 4453:1995 để phù hợp với bán kính tác dụng của đầm. 
+-	Bê tông phải đổ liên tục không ngừng tuỳ tiện, trong mỗi kết cấu mạch ngừng phải bố trí ở những vị trí có lực cắt và mô men uốn nhỏ.
+-	Khi trời mưa phải che chắn, không để nước mưa rơi vào bê tông. 
+-	Bê tông móng chỉ được đổ lên lớp đệm sạch trên nền đất cứng.
+-	Đổ bê tông cột có chiều cao nhỏ hơn 5m và tường có chiều cao nhỏ hơn 3m thì nên đổ liên tục.
+-	Cột có kích thước cạnh nhỏ hơn 40cm, tường vách có chiều dầy nhỏ hơn 15cm và các cột bất kì nhưng có đai cốt thép chồng chéo thì nên đổ liên tục trong từng giai đoạn có chiều cao 1,5m.
+-	Cột cao hơn 5m và tường vách cao hơn 3m nên chia làm nhiều đợt nhưng phải đảm bảo vị trí và cấu tạo mạch ngừng thi công hợp lý.
+-	Bê tông dầm và bản sàn được tiến hành đồng thời, khi dầm có kích thước lớn hơn 80cm có thể đổ riêng từng phần nhưng phải bố trí mạch ngừng thi công hợp lý.
+c.3. Đầm bê tông: 
+-	Đầm bê tông là nhằm làm cho hỗn hợp bê tông được đặc chắc, bên trong không bị các lỗ rỗng, bên mặt ngoài không bị rỗ, và làm cho bê tông bám chặt vào cốt thép. Yêu cầu của đầm là phải đầm kỹ, không bỏ sót và đảm bảo thời gian, nếu chưa đầm đủ thời gian thì bê tông không được lèn chặt và bị rỗng, lỗ. Ngược lại, nếu đầm quá lâu, bê tông sẽ nhão ra, đá sỏi to sẽ lắng xuống, vữa ximăng sẽ nổi lên trên, bê tông sẽ không được đồng nhất. 
+-	  Đối với sàn, nền, mái thì dùng đầm bàn để đầm, khi đầm mặt phải kéo từ từ, các dải chồng lên nhau 5-10cm. Thời gian đầm ở 1 chỗ khoảng 30-50s
+-	Đối với cột, dầm thì dùng đầm dùi để đầm, chiều sâu mỗi lớp bê tông khi đầm dùi khoảng 30-50cm, khoảng cách di chuyển đầm dùi không quá 1,5 bán kính tác dụng của đầm. Thời gian đầm khoảng 20-40s. Chú ý trong quá trình đầm tránh làm sai lệch cốt thép.
+c.4. Bảo dưỡng bê tông:
+-	Bảo dưỡng bê tông tức là thực hiện việc cung cấp nước đầy đủ cho quá trình thuỷ hoá của xi măng-quá trình đông kết và hoá cứng của bê tông. Trong điều kiện bình thường. Ngay sau khi đổ 4 giờ nếu trời nắng ta phải tiến hành che phủ bề mặt bằng để tránh hiên tượng ‘trắng bề mặt’ bê tông rất ảnh hưởng đến cường độ nhiệt độ 15oC trở lên thì 7 ngày đầu phải tưới nước thường xuyên để giữ ẩm, khoảng 3 giờ tưới 1 lần, ban đêm ít nhất 2 lần, những ngày sau mỗi ngày tưới 3 lần. Tưới nước dùng cách phun (phun mưa nhân tạo), không được tưới trực tiếp lên bề mặt bê tông mới đông kết. Nước dùng cho bảo dưỡng, phải thoả m•n các yêu cầu kỹ thuật như nước dùng trộn bê tông. Với sàn mái có thể bảo dưỡng bằng cách xây be, bơm nước để bảo dưỡng. Trong suốt quá trình bảo dưỡng, không để bê tông khô trắng mặt.
+c.5. Đổ bê tông một số kết cấu cụ thể:
+-	Đổ bê tông cột:
++ Bê tông được sử dụng là bê tông đá 1x2, M250.
++ Dùng máng tôn đưa bê tông vào khối đổ qua các cửa sổ. 
++ Chiều cao rơi tự do của bê tông từ 1m đến 1,5m để bê tông không bi phân tầng do vậy phải dùng các cửa đổ.
++ Đầm được đưa vào trong để đầm theo phương thẳng đứng, khi đầm chú ý đầm kỹ các góc, khi đầm không được để chạm cốt thép.
++ Khi đổ đến cử sổ thì bịt cửa lại và tiếp tục đổ phần trên. 
++ Khi đổ bê tông cột lớp dưới cột thường bị rỗ do các cốt liệu to thường ứ đọng ở đáy nên để khắc phục hiện tượng này trước khi đổ bê tông ta đổ 1 lớp vữa XM có thành phần 1/2 hoặc 1/3 dày khoảng 10 - 20 cm.
+-	Đổ bê tông dầm, sàn:
++ Bê tông được sử dụng là bê tông đá 1x2, M250.
++ Bê tông được vận chuyển lên dầm, sàn bằng tời. 
++ Đầm bê tông bằng đầm dùi kết hợp đầm bàn. Đầm dùi để đầm kết cấu dầm, đầm bàn để đầm bản sàn.
++ Mạch ngừng thi công trong công tác thi công bê tông: Nhà thầu sẽ bố trí mạch ngừng thi công như sau:
+	Đối với cột, nhà thầu sẽ để mạch ngừng tại vị trí cách đáy dầm 50mm (hoặc cách đáy dầm một khoảng cách đủ để thép dầm còn neo vào cột).
+	Đối với dầm sàn nhà thầu quyết định chọn giải pháp thi công liên tục không để mạch ngừng thi công trên sàn nhằm đảm bảo tính toàn khối cho dầm, sàn.
+	Để đáp ứng khối lượng thi công nhà thầu chuẩn bị đầy đủ xe vận chuyển, xe bơm bê tông có thể phục vụ liên tục. Đối với công nhân nhà thầu sẽ bố trí lao động theo ca thi công liên tục cho đến khi đổ bê tông xong sàn. 
+	Trong trường hợp không thể thi công liên tục như thời tiết xấu... thì nhà thầu sẽ bố trí mạch ngừng thi công theo quy định, quy phạm của bê tông.
+	Trước khi thi công đổ bê tông tiếp thì mạch ngừng phải được đục nhám kỹ và thổi sạch, sau đó tưới nước xi măng lên bề mặt tiếp giáp giữa 2 lớp mới và cũ để đảm bảo tính liên kết toàn khối của bê tông.
+d.	Công tác thi công xây tường gạch, xây ốp cột, xây bậc cấp:
+Yêu cầu chung về vật liệu:
+•	Gạch:
+-	Chúng tôi đệ trình mẫu gạch đưa vào sử dụng và phải được chủ đầu tư và tư vấn giám sát đồng ý trước khi vận chuyển đến công trường.
+-	Gạch được bảo quản không bị dính đất, bẩn hay tác động của thời tiết gây hư hại.
+-	Gạch xây phải đảm bảo đúng theo kích thước hình học, các chỉ tiêu cơ lý về cường độ được quy định trong thiết kế và phải thoả mãn các quy định trong tiêu chuẩn TCVN 6477:2016.
+•	Vữa xây:
+-	Xi măng dùng để trộn vữa được quy định theo tiêu chuẩn TCVN 2682:2009. Cát trộn vữa phải có màu sáng và được loại bỏ các hợp chất hữu cơ. Nước trộn vữa phải là nước sạch.
+-	Vữa được trộn theo mác tương ứng chỉ ra trong bản vẽ thiết kế từng loại công việc cụ thể và phải tuân theo các quy định trong tiêu chuẩn TCVN 3121-2003.
+-	Vữa không được phép sử dụng sau khi trộn quá 2 giờ và phải được trộn bằng máy trộn vữa.
+-	Vữa xây được trộn theo đúng cấp phối thiết kế. Tại nơi trộn vữa có bảng hiệu ghi các mác vữa và cấp phối vật liệu.
+ Định vị khối xây:
+-	Cần phải tiến hành định vị tường khối xây và xác định vị trí các lỗ chờ, chiều cao cửa, giằng, các khối xây...
+-	Khối xây cần đảm bảo các sai số như trong tiêu chuẩn TCVN 4314-86 và 4085-85.
+Yêu cầu về khối xây:
+-	Công tác xây gạch không nung đảm bảo tuân thủ theo quy định hiện hành.
+-	Các khối xây phải đặc chắc không trùng mạch. Các mạch đứng phải so le nhau ít nhất 1/4 chiều dài viên gạch. Mặt xây phải ngang bằng. Mặt phẳng của khối xây cả hai mặt phải thẳng đứng theo phương dây dọi, không được lồi lõm, vặn vỏ đỗ hoặc nghiêng.
+-	Trước khi đặt gạch cần phải đảm bảo đã định vị tất cả các lỗ chờ, bu lông, neo... theo thiết kế. Gạch đá phải được nhúng nước hoặc tạo ẩm trước khi xây.
+-	Các mặt tiếp giáp giữa các lần xây phải được tưới nước và làm sạch.
+-	Gạch phải được đặt nằm ngang và đầy vữa ở các mạch và bề dày của các mạch không lớn hơn 10mm. Tường phải có sai số không vượt quá quy định trong TCVN 4085-85. Tại các góc phải sử dụng dọi và thước góc khi xây.
+-	Tất cả các mỏ chờ phải là mỏ dật không dùng mỏ nanh. Các mỏ phải đảm bảo chính xác về vị trí, kích thước và yêu cầu kỹ thuật.
+-	Các hàng ngang phải dùng gạch nguyên viên, không dùng gạch vỡ.
+-	Khi xây cần căng dây hai mặt tường, sử dụng thước tầm để đảm bảo độ phẳng của hai mặt tường.
+-	Tường mới xây xong không được va chạm mạnh, đặt vật liệu hay dụng cụ lên trên. 
+-	Sau khi xây, khối xây phải được bão dưỡng bằng cách tưới nước và phủ bao tải có tưới nước để giữ độ ẩm cho vữa xây, tạo điều kiện cho vữa xây đạt cường độ.
+2.3.3.	Biện pháp thi công hoàn thiện:
+a.	Công tác thi công trát:
+-	   Lớp trát để che bọc các kết cấu gạch đá, kết cấu bê tông và và bê tông cốt thép, kết cấu thép (khi cần). Do đó cần có những quy định cụ thể cho mỗi loại kết cấu và loại vữa cũng như yêu cầu chất lượng vữa trát, trình tự thi công.
+-	   Trước khi trát, kiểm tra thời gian xây tường đảm bảo công tác xây cách công tác trát 10-15 ngày tuỳ theo tình hình thời tiết, kiểm tra bề mặt kết cấu được làm sạch, cọ rửa hết bụi bẩn, rêu bám, các vết dầu mỡ và phải tưới ẩm. Những vết lồi lõm và gồ ghề, vón cục vôi, vữa dính trên mặt kết cấu phải được đắp thêm hoặc tẩy cho phẳng.
+-	   Nếu bề mặt kết cấu không đủ độ nhám do lớp vữa bám dính như bề mặt bê tông đúc trong ván khuôn thép, mặt kim loại... trước khi trát phải gia công tạo nhám bằng gạch phun cát, vảy, trát lên bề mặt kết cấu hoặc khía ô quả trám, phải trát thử một vài chỗ để xác định độ dính kết cần thiết.
+-	   Chiều dày lớp vữa phụ thuộc vào chất lượng mặt trát, loại kết cấu, loại vữa sử dụng và cách thi công trát.
+-	   Chiều dày lớp vữa trát phẳng đối với lớp kết cấu là tường thông thường không quá 15mm, khi trát chất lượng cao hơn không quá 20mm và chất lượng đặc biệt cao không quá 25mm.
+-	Độ sụt của vữa trát lúc bắt đầu trát lên kết cấu phụ thuộc vào điều kiện và phương tiện thi công được quy định theo tiêu chuẩn TCVN 5674-1992.
+-	Trước khi trát phải trát các điểm làm mốc định vị để tạo phẳng tường hay khống chế chiều dày lớp vữa.
+-	Khi lớp vữa trát chưa thật sự cứng không được va chạm hay rung động, bảo vệ mặt trát không có nước chảy qua hay chịu nóng, lạnh đột ngột cục bộ.
+-	Đối với vữa trát bề mặt bên trong nhà, không cho phép sử dụng phụ gia có chứa clo.
+-	Khi hoàn thành để nghiệm thu, công tác trát phải thoả mãn các yêu cầu sau:
+-	Lớp vữa trát bám dính chắc với kết cấu, không có vết vữa chảy, vết hàn của dụng cụ trát, vết lồi lõm, gồ ghề cục bộ, cũng như các khuyết tật khác ở góc, cạnh, gờ chân tường, gờ chân cửa, chỗ tiếp giáp với các vị trí đặt thiết bị điện, vệ sinh, thoát nước.
+-	Các đường gờ gạch của tường phải phẳng, sắc nét. Các đường vuông góc được kiểm tra bằng thước kẻ vuông, các cạnh của cửa sổ, cửa đi phải song song nhau, mặt trên của bệ cửa sổ có độ dốc theo thiết kế, lớp vữa trát phải chèn sâu vào lớp nẹp khuôn cửa ít nhất là 10mm.
+-	Độ lệch cho phép của bề mặt kiểm tra theo các trị số cho ở bảng 3 của tiêu chuẩn TCVN 5674-1992.
+•	Các tiêu chuẩn được áp dụng:
+-	 TCVN 5674-1992; TCVN 9377 2:2012: Công tác hoàn thiện trong xây dựng - Quy phạm thi công và nghiệm thu.
+b.	Công tác lát gạch:
+-	Công tác lát gạch chỉ được bắt đầu khi hoàn thành công việc ở phần kết cấu bên trên và xung quanh bao gồm: công tác trát trần hay lớp ghép trần treo, công tác trát và ốp tường. Mặt lát phải phẳng và được làm sạch.
+  b.1. Yêu cầu kỹ thuật: 
+Vật liệu lát bằng gạch men yêu cầu kỹ thuật như sau:
+       Sai số cho phép:
+-	 Cao độ theo phương ngang trên bề mặt sai số cho phép 2 ~ 3 mm.
+-	 Không nhìn thấy bằng mắt thường. Mặt lát phải phẳng không gồ ghề lồi lõm cục bộ, kiểm tra bằng thước nhôm có chiều dài 2m, khe hở giữa mặt lát và thước không vượt quá 3mm. Độ dốc và phương dốc của mặt lát phải theo đúng yêu cầu thiết kế, kiểm tra độ dốc bằng ni vô, đổ nước thử hay cho lăn viên bi thép 10mm nếu có chỗ lõm tạo vũng đọng nước phải bóc lên lát lại.
+      Hoàn thiện:
+-	Màu sắc và men gạch theo như bản vẽ. Các viên gạch lát phải vuông vắn, không cong vênh, sứt góc, không có các khuyết tật khác trên bề mặt, những viên gạch lẻ bị chặt thì cạnh chặt phải được mài phẳng. Chiều dày của lớp vữa xi măng lót không được quá 15mm, mạch gạch lát sàn: 1.5 mm và được chèn đầy bằng xi măng nguyên chất hoà với nước (hồ nhão).
+ b.2. Biện pháp thi công:
+ Chuẩn bị mặt bằng:
+-	Dọn dẹp vệ sinh mặt nền, tưới nước mặt nền.
+-	Chuẩn bị máy móc phục vụ thi công.
+-	Chuẩn bị chỗ để vật liệu: gạch, vữa.
+-	Ở những vị trí có yêu cầu về chống thấm nước như khu vệ sinh trước khi lát phải kiểm tra chất lượng của lớp chống thấm và các chi tiết khác (như mạch chèn các khe tiếp giáp giữa các cấu kiện lắp ghép, mạch chèn xung quanh hệ thống cấp nước, ...).
+ Trình tự thi công:
+-	Theo bản vẽ các đường lưới mực sẽ được đánh trên mặt sàn, trắc đạc cung cấp đường vuông góc cho mạch gạch trung tâm.
+-	Trắc đạc sẽ đánh cốt + 600 mm trên mặt tường bao.
+-	Mặt phẳng vữa lót sẽ được triển khai trước với cao độ tương đối chính xác cho công tác lát gạch theo như bản vẽ thiết kế.
+-	Hàng gạch triển khai đầu tiên bắt đầu tại vị trí đường mực cho vuông góc và dây căng sẽ định vị đúng trên sàn. Mạch gạch thẳng hay cong sẽ được kiểm tra chặt chẽ cả hai phía.
+-	Cao độ sẽ cố định theo đúng bản vẽ, cùng với việc dùng dây căng định vị hai đầu trên tường và dùng thước đo xuống.
+-	Sau khi đã chắc chắn các bước trên hàng gạch bắt đầu triển khai theo hai cách. Cao độ và độ phẳng của mạch kiểm tra thường xuyên bằng dây căng và thước cũng như về chất lượng sản phẩm.
+-	Phần tiếp giáp giữa các mạch lát, cũng như mạch lát và chân tường phải chèn đầy vữa xi măng. Mặt lát phải đảm bảo các yêu cầu về độ cao, độ phẳng, độ dốc, độ dính kết với mặt lát nền. Chiều dày lớp vữa lót, chiều dày mạch vữa, màu sắc, hình dáng trang trí... phải theo đúng thiết kế.
+Phương pháp làm mạch gạch:
+-	Mạch gạch chèn với vữa xi măng trắng (đã được chấp thuận, XM trắng + nước).
+-	Khi chưa chèn mạch, không được đi lại hoặc va chạm lên mạch gạch lát làm bong gạch. 
+-	Mặt sàn được lau sạch và bảo dưỡng bằng nước.
+-	Hồ xi măng lấp kín mạch gạch theo đúng quy cách và dùng giẻ lau cao su hay các dụng cụ có sẵn.
+-	Sau thời gian ngắn, vữa làm mạch gạch sẽ được lau sạch bằng giẻ hay miếng xốp cho mạch sắc gọn không để xi măng bám dính. Nếu cần thiết mạch gạch có thể sửa lại.
+-	Cuối cùng lau sạch lại toàn bộ bề mặt đúng như yêu cầu hoàn thiện.
+-	Sau khi hoàn tất, cán bộ kỹ thuật kiểm tra và sửa lại nếu cần thiết. Sau đó mời bên giám sát nghiệm thu.
+•	Các tiêu chuẩn được áp dụng:
+-	TCXDVN 336-2005: Vữa dán ốp lát. Yêu cầu kỹ thuật và phương pháp thử
+-	TCVN 6883-2001: Gạch ốp lát - gạch granit
+-	TCVN 5674-1992; TCVN 9377-1:2012: Công tác hoàn thiện trong xây dựng - Quy phạm thi công và nghiệm thu.
+c.	Công tác thi công ốp gạch:
+-	Trước khi thi công ốp, phải kiểm tra độ phẳng của mặt ốp. Nếu mặt ốp có độ lồi lõm hơn 15mm cần phải trát phẳng bằng vữa xi măng. Trước khi gắn các tấm ốp vào mặt ngoài của các đường ống kỹ thuật như: ống thông hơi, ống thông gió…, và ở những nơi nhiệt độ thay đổi thường xuyên cần phải bọc quanh mặt ốp của kết cấu một lớp lưới thép.
+-	Đoạn lưới bọc phải phủ ra quá ngoài phạm vi các đường ống kỹ thuật ít nhất 15cm. Những chi tiết cấu tạo đặc biệt khác cần tuân thủ theo chỉ dẫn của bản vẽ thi công
+-	Độ dẽo của vữa xi măng cát dùng cho công tác ốp phải đạt từ 5~6cm, đối với vữa xi măng cát để ốp các tấm gạch men cần có độ sụt từ 6~8cm. Vữa dùng để chèn mạch vào khoảng trống giữa kết cấu và tấm đá ốp cần có độ sụt từ 8~10cm.
+-	Khi tiến hành công tác ốp cần phải bảo quản vữa và độ dính kết trong suốt thời gian ốp.
+-	Khi ốp xong từng phần hay toàn bộ bề mặt kết cấu phải làm sạch các vết bẩn ố và vữa bám trên bề mặt ốp. Việc làm sạch bề mặt ốp chỉ nên tiến hành sau khi vữa gắn mạch ốp đã đóng rắn.
+-	Ngay sau khi kết thúc công tác ốp, ngoài việc làm sạch bề mặt công trình cần phải tiến hành các công việc hoàn thiện liên quan trực tiếp đến chất lượng bề mặt ốp như công tác mài, đánh bóng v.v...
+-	Sau khi thi công xong, mặt ốp phải đạt các yêu cầu sau:
++ Tổng thể mặt ốp phải đảm bảo đúng hình dạng và kích thước hình học.
++ Vật liệu ốp phải đúng quy cách về kích thước và màu sắc, không cong vênh nứt nẻ, kích thước khuyết tật trên bề mặt ốp không được vượt quá các chỉ số cho phép trong tiêu chuẩn hay quy định của thiết kế.
++ Những hình ốp, đường nét hoa văn trên bề mặt ốp phải theo đúng thiết kế.  Màu sắc của mặt ốp phải tương đối đồng nhất và sắp xếp sao cho các tấm vật liệu ốp hài hoà về màu sắc và đường vân.
++ Các mạch vữa ngang và dọc phải sắc nét, thẳng, đều đặn và đầy vữa. Vữa đệm giữa các kết cấu và tấm ốp phải đặc chắc, khi vỗ trên bề mặt ốp không có tiếng bộp, những viên bộp phải vỗ lại.
++ Những chi tiết của một hình phải nằm trong cùng một mặt phẳng được xác định theo vị trí thiết kế.
++ Những mạch ghép các chi tiết không được làm ảnh hưởng đến đường nét liên tục và tạo được hình nổi trên bề mặt công trình.
+•	 Các tiêu chuẩn được áp dụng:
+-	TCXDVN 336-2005: Vữa dán ốp lát. Yêu cầu kỹ thuật và phương pháp thử
+-	TCVN 6883-2001: Gạch ốp lát - gạch granit; TCVN 5674-1992; TCVN 9377 3:2012: Công tác hoàn thiện trong xây dựng- Quy phạm TC và nghiệm thu.
+d.	Công tác thi công sơn:
+Yêu cầu kỹ thuật: Bề mặt sơn phải đạt các yêu cầu kỹ thuật sau:
+-	Màu sắc sơn phải đúng với màu do thiết kế.
+-	Bề mặt sơn không bị rỗ, không có nếp nhăn và giọt sơn đọng lại.
+-	Các đường chỉ, đường ranh giới các mảng màu sơn phải thẳng, nét và đều.
+Chuẩn bị bề mặt
+-	Kiểm tra lại bề mặt bằng cần sơn đã phẳng nhẵn hay chưa.
+-	Vệ sinh, làm sạch bề mặt. 
+Trình tự thao tác
+   Trình tự sơn:
+-	Bắt đầu từ trần, đến các bức tường, đến các má cửa rồi đến các đường chỉ và kết thúc với sơn chân tường.
+-	Sơn trần, thường 3 nước để đều màu. Sơn xong 1 nước để khô mới sơn nước tiếp theo và cùng chiều với nước trước bởi vì lăn sơn dễ đều màu, thường không để lại vết rulô.
+   Thao tác lăn sơn:
+-	Đổ sơn vào khay chừng 2/3 khay.
+-	Nhúng từ từ rulô vào khay sơn (đảm bảo chiều dài vỏ song song với mặt sơn ngập chừng 1/3 (không quá lõi trục 2 đầu). Kéo rulô lên sát lưới, đẩy đi đẩy lại con lăn quay trên mặt nước sơn sao cho vỏ rulô thấm đều sơn, đồng thời sơn thừa cũng được gạt vào lưới.
+-	Đưa rulô áp vào tường và đẩy cho rulô quay lăn từ dưới lên theo vệt thẳng đứng đến đường biên (không chờm quá đường biên): kéo rulô xuống theo vệt cũ quá điểm ban đầu, sâu xuống tới điểm dừng (có thể là chân tường hoặc kết thúc ở một đợt sơn nếu tường cao > 4m. Tiếp tục đầy rulô đến khi sơn bám hết vào bề mặt trát.
+-	Để không bị sót nên đẩy 2-3 lần 1 vệt. Các vệt chồng lên nhau 4-5cm.
+-	Thao tác lăn sơn trần cũng tương tự như sơn tường. Lăn theo từng vệt thẳng ngang hoặc dọc trần.
+   Thao tác quét sơn:
+-	Khuấy đều và đổ sơn vào ca, khoảng 2/3 ca.
+-	Nhúng chổi từ từ vào sơn, sâu khoảng 3cm, nhấc chổi gạt sơn vào miệng ca.
+-	Đặt chổi sơn lên bề mặt: lúc đầu ấn nhẹ tay, sau càng di chuyển càng nặng tay.
+-	Nếu ấn quá nhẹ tay thì lớp sơn sẽ thành dải nhỏ và dày, còn nếu quá mạnh thì sơn.
+e.	Công tác thi công cửa nhôm xingfa:
+Vật liệu đưa công trình
+-	Các vật tư đưa vào công trình phải có nguồn gốc rõ ràng, có nhãn mác và trong thời hạn sử dụng, đảm bảo chất lượng và TCVN. Trước khi đưa vào công trình phải trình mẫu cho cán bộ Tư vấn giám sát, cán bộ chủ đầu tư để xét duyệt.
+-	Một số loại vật tư chủ yếu dự kiến dùng cho công trình:
++ Thanh profile nhôm.
++ Phôi kính: Việt Nam
+Các qui phạm kỹ thuật áp dụng
+-	Khi thi công dự án này, chúng tôi cam kết sẽ tuân thủ theo đúng bản vẽ thiết kế, các quy phạm và tiêu chuẩn Việt Nam đang có hiệu lực thi hành.
+Qui trình thực hiện, kiểm tra từng công việc
+-	Để đảm bảo thi công các hạng mục công trình đúng kỹ thuật, mỹ thuật, giảm bớt sai sót, nhà thầu đề ra Qui trình thực hiện, kiêm tra từng công việc như sau:
+-	Tiến hành nhập vật liệu sản xuất cửa nhôm, phụ kiện, nghiệm thu nội bộ kiểm tra chất lượng vật liệu, nghiệm thu vật liệu đầu vào với giám sát bên A.
+-	Bộ phận kỹ thuật của công trường xem xét kiểm tra bản vẽ để triển khai thi công. Đề ra biện pháp thi công, kế hoạch thi công. Nếu phát hiện bản vẽ bị sai sót, bất hợp lý hoặc các cấu kiện cần phải triển khai chi tiết thì phải báo cáo lên Ban chỉ huy công trường để giải quyết.
+-	Khi đã được phê duyệt bản vẽ, biện pháp, các mẫu vật tư nhà thầu tiến hành triển khai thi công trong sự kiểm tra giám sát của Ban chỉ huy công trường, của kỹ thuật bên A, Tư vấn giám sát, Tư vấn thiết kế.
+-	Gia công sản xuất hàng loạt sau khi đã có kích thước thực tế tại công trình. 
+-	Nghiệm thu nội bộ sản phẩm đã gia công hàng loạt, sau khi đạt yêu cầu mới nghiệm thu với gám sát bên A
+-	Tiến hành lắp đặt, kiểm tra nghiệm thu nội bộ sau khi lắp đặt, đạt yêu cầu mới nghiệm thu với giám sát bên A.
+-	Vệ sinh bàn giao hạng mục.
+Biện pháp thi công chi tiết của công trình
+Công tác đo đạc lấy kích thước thực tế tại công trình
+-	Công tác đo để có kích thước thực tế đóng vai trò hết sức quan trọng, nó giúp cho việc lắp đặt cửa có độ kín khít cao, kích thước chiều rộng và chiều cao sản xuất cửa phải đảm bảo nhỏ hơn kích thước ô chờ cửa là 5mm.
+Nhập số liệu sản xuất
+-	Phần mềm sản xuất cửa là một phần mềm được lựa chọn tốt nhất, đảm bảo kích thước thanh profile cắt chính xác, cũng như giảm tỷ lệ hiệu xuất hao hụt.
+-	Số liệu sau khi đo thực tế tại công trình được nhập vào phần mềm sản xuất, phần mềm này sẽ tính chính xác số liệu cắt profile phù hợp với kích thước đã đo thực tế, cũng như chọn chủng loại profile đi kèm với hệ cửa.
+Cắt profile
+-	Đây là giai đoạn yêu cầu người cắt phải đúng và chuẩn, dựa theo số liệu sản xuất từ phần mềm, người cắt sẽ chọn loại profile, số lượng cây cần cắt và cắt theo trong bảng số liệu, khi cắt phải đánh ký hiệu của từng loại cây theo trong bản vẽ, để dễ lựa chọn khi lắp đặt.
+Chạy roăng
+-	Cửa sau khi hàn xong sẽ được chạy roăng vào rãnh của từng cây profile, roăng phải được chạy kín khít theo cửa.
+Bắt phụ kiện
+-	Cửa sẽ được bắt phụ kiện (bàn lề, chốt, thanh chuyển động). Người bắt phụ kiện phải là người thợ có tay nghề cao và độ chính xác cao, vì nếu bắt lệch vị trí thì cửa sẽ không đảm bào yêu cầu kỹ thuật.
+Đóng kính vào khung cửa
+-	Đây là giai đoạn cuối cùng của sản xuất, cửa sẽ được đóng kính vào rồi chuyển đến kho thành phẩm.
+An toàn lao động trong công tác sản xuất
+-	Công nhân sẽ được trang bị kính bảo hộ mắt, mang giày bảo hộ chân, áo quần đồng phục sản xuất.
+Nghiệm thu nội bộ
+-	Bộ phận KCS sẽ kiểm tra cửa thành phẩm so với kích thước sản xuất, chủng loại cửa, tem profile phải còn nguyên vẹn, chủng loại phụ kiện
+Nghiệm thu sản phẩm gia công hàng loạt
+-	Kỹ thuật sẽ tiến hành mời giám sát bên A kiểm tra và nghiệm thu sản phẩm sau khi đã gia công hàng loạt.
+Lắp đặt cửa
+-	Cửa sẽ được tiến hành lắp đặt theo ký hiệu, vị trí trên bản vẽ đã phê duyệt, khi lắp đặt phải đảm bảo cửa phải thàng đứng bằng dây dọi.
+-	Bắt vít lắp đặt giữa khung cửa và tường, khoản cách bắn vít là 400mm, vít là loại inox, chiều dài 100mm, đường kính 10mm.
+-	Sau khi bắt vít xong phải dùng dây dọi để kiểm tra cửa có bị vênh so với tường hay không.
+-	Bắn silicol vào vị trí khung bao cửa và tường để đảm bảo độ kín khít và chống nước.
+Công tác an toàn khi lắp đặt
+-	Công nhân sẽ được trang bị mang giày bảo hộ chân, áo quần đồng phục sản xuất, nón bảo hiểm.
+Vệ sinh
+-	Lột tem bảo vệ trên cửa, vệ sinh những vết bẩn trên cửa và kính.
+Nghiệm thu nội bộ sau khi lắp đặt
+-	Bộ phận kỹ thuật sẽ kiểm tra từng bộ cửa theo từng kí hiệu và vị trí trên bản vẽ, cũng như công tác vệ sinh.
+Nghiệm thu với giám sát bên A
+-	Bộ phận kỹ thuật tiến hành mời nghiệm thu với giám sát bên A về số lượng, kích thước, hình dáng, kỹ thuật của sản phẩm sau khi lắp đặt.
+-	Trên đây là toàn bộ những biện pháp kĩ thuật và tổ chức thi công cơ bản nhất mà nhà thầu dự kiến áp dụng trong quá trình thi công công trình. Với trình độ chuyên môn và kinh nghiệm của cán bộ kĩ thuật, với tay nghề cao của công nhân, với những trang thiết bị hiện đại và khả năng hoàn thành công việc đã được kiểm qua các dự án trong nhiều năm qua.
+2.3.4.	Biện pháp thi công điện nước, chống sét:
+Biện pháp thi công phần điện:
+a.	Công tác kéo rãi dây:
+-	Việc lắp đặt hệ thống điện phải đảm bảo an toàn cho con người, không bị nguy hiểm do tiếp xúc với những bộ phận mang điện của thiết bị dùng điện trong khi vận hành bình thường và ngăn ngừa những bộ phận của công trình chạm vỏ khi sự cố. Bảo đảm đảm trang thiết bị điện làm việc an toàn. 
+b.	Thi công hệ thống điện:
+-	Vật tư, thiết bị điện khi cấp đến công trường phải được sự đồng ý của chủ đầu tư về mẫu mã, chủng loại, chất lượng. 
+-	Các lỗ thông sàn, thông dầm, tường được đặt ngay trong khi thi công bê tông dầm sàn và xây tường. Phần điện đi ngầm trong bê tông sàn, dầm được đặt ngay khi thi công bê tông dầm sàn. Phần đi ngầm trong tường được thi công sau khi tường xây đạt cường độ thiết kế. Trong quá trình thi công các mối nối dây đều được xử lý qua các hộp nối (trường hợp phải cắt dây). Các mối nối phải đảm bảo chất lượng và độ an toàn cao. 
+-	Các đường ống đi dây phải kín, không gãy khúc, cong đều. Các mối nối dây được quấn cách điện tuyệt đối, không trùng nhau trong một ống.
+-	Dây cáp khi nối phải có hộp nối, các công tắc, cầu dao được gắn chắc chắn vào tường, ngay ngắn. 
+c.	Công tác lắp đặt thiết bị điện:
+-	Tủ điện, bảng điện được lắp đúng vị trí theo đúng tiêu chuẩn kỹ thuật và các bản vẽ đã được phê duyệt. Các thiết bị trong các tủ điện sẽ được dán nhãn tên.
+-	Các cầu dao ngắt điện loại tự động, ghi rõ tên tải mà nó có nhiệm vụ bảo vệ. Các dây dẫn đều được gắn đầu cos khi đấu nối giữa các điểm và làm dấu tên.
+-	Các thiết bị điện trước khi đưa vào lắp đặt phải được kiểm tra và chạy thử đạt yêu cầu mới được đưa vào lắp đặt.
+-	Sau khi thi công xong phần điện phải tiến hành thông mạch không tải và thử tải đầy đủ các phụ tải.
+Biện pháp thi công phần nước:
+Công tác lắp đặt ống nhựa cấp, thoát nước:
+-	Đường ống trong hệ thống cấp nước phải không làm nhiễm độc, nhiễm bẩn nước cấp, được lắp đặt chắc chắn, không bị rò rỉ, không gây ồn rung khi vận hành, không được chảy ngược khi đường ống bị giảm áp và mất nước.
+-	Hệ thống thoát nước sinh hoạt, thoát nước bể phốt phải đảm bảo thoát hết nước, không bị rò tắc và dễ thông tắc sửa chữa, không bốc mùi hôi ra môi trường xung quanh, không có nguy cơ dập đường ống, vận hành xử lý nước thải được thuận lợi và đảm bảo an toàn.
+-	Tất cả các loại vật tư, thiết bị cấp, thoát nước trước khi mang vào thi công phải được kiểm tra chất lượng và phải được sự chấp thuận của Chủ đầu tư và cán bộ kỹ thuật giám sát thi công.
+-	Trong quá trình thi công phải kiểm tra chặt chẽ các chủng loại ống và chất lượng kỹ thuật của ống đưa vào thi công. Hết sức lưu ý các mối nối của ống tránh rò rỉ các mối nối gây tổn thất nước, mất vệ sinh và mỹ quan công trình.
+-	Hệ thống ống nước ngầm và nước đi luồn trong tường, đi xuyên qua các tầng sàn được thực hiện theo đúng yêu cầu kỹ thuật được nêu trong các bản vẽ và điều kiện kỹ thuật. Cốt đáy ống, độ dốc, tuyến, vị trí... được xác định cẩn thận trước khi thi công. Đặc biệt không để gây ảnh hưởng đến các hệ thống cáp, điện và các cấu trúc ngầm khác. 
+-	Trong quá trình thi công cần kết hợp, phối hợp chặt chẽ với các bộ phận thi công xây dựng khác như bộ phận bêtông, bộ phận xây, bộ phận tô, bộ phận sơn nước... để thống nhất trong việc chờ lỗ, đặt hộp..., tránh không để xảy ra tình trạng phải đục dầm sàn bêtông, tường xây, đập phần cấu trúc đã hoàn thiện, gây ảnh hưởng đến mỹ quan của cấu trúc. 
+-	Khi thi công tuyến ống, nếu tạm dừng thi công phải bị kín các đầu ống tránh đất cát, gạch vỡ rơi vào trong ống gây ách tắc hoặc tách ống sau thời gian đã đưa công trình vào sử dụng.
+-	Hệ thống ống dẫn phải được thử áp lực trước khi hoàn thiện các lớp bên ngoài.
+-	Đối với hệ thống cấp nước quá trình kiểm tra hệ thống cấp nước cần phải thử bằng áp lực, áp lực thử bằng áp lực làm việc cộng với 5kg/cm2 nhưng không quá 10kg/cm2. Khoá máy để sau 10 phút, áp lực trong ống không giảm quá 0,5kg/cm2 là đạt yêu cầu.
+-	Ngoài ra có thể thử bằng áp lực khí nén, trình tự thử như sau: Dùng áp lực thử 1,5kg/cm2 để phát hiện các khuyết tật. Sau khi khắc phục các khuyết tật tiếp tục thử với áp lực khí nén là 1kg/cm2. Trong 5 phút áp lực không được giảm quá 0,1 kg/cm2.
+-	Khi nghiệm thu hệ thống thoát nước, cần phải kiểm tra độ chính xác của độ dốc đặt ống, sự làm việc của các thiết bị thu nước thải và các bình xả nước chậu xí, chậu rửa, tiểu treo. Cần tẩy rửa và vệ sinh sạch sẽ toàn bộ hệ thống trước khi tiến hành công tác nghiệm thu.
+-	Đối với hệ thống thoát nước mưa sau khi thi công xong tiến hành thử bằng cách đổ đầy nước đến mức cao nhất của phễu thu nước mưa, thời gian thử là 10 phút và không cho phép rò rỉ.
+-	Độ kín của các mối nối và những chỗ rò rỉ được xác định bằng cách quan sát bên ngoài của các mối nối và theo mức nước trong khi thử đường ống.
+-	Giải pháp thi công bù tiến độ cho các trường hợp xảy ra chậm tiến độ yêu cầu.
+-	Trong quá trình thi công nếu có hạng mục công việc nào chậm so với tiến độ đề ra, Ban chỉ huy công trường sẽ tổ chức cho công nhân làm ca 2 hoặc ca 3 trong một số công tác để đẩy nhanh tiến độ bù lại tiến độ bị chậm theo yêu cầu của Chủ đầu tư.
+-	Đối với trường hợp trong quá trình thi công mà xảy ra sự cố mất điện thì Nhà thầu chúng tôi luôn sẵn sàng bố trí một máy phát điện thường trực tại công trường. Nhằm đảm bảo trong quá trình thi công không bị gián đoạn. Nhà thầu chúng tôi cam kết máy phát điện tốt, luôn trong tình trạng sẵn sàng phục vụ.
+-	Giải pháp kỹ thuật thi công đảm bảo an toàn vệ sinh môi trường, cho các hạng mục công trình hiện có (Xem ở phần an toàn vệ sinh môi trường).
+-	Giải pháp đảm bảo an toàn cho hoạt động thường xuyên của nhà trường (nếu có).
+-	Nhà thầu bố trí lối đi riêng để phục vụ thi công hạng mục công trình, không ảnh hưởng đến quá trình hoạt động của nhà trường.
+Biện pháp thi công phần chống sét:
+a.	Công tác đào đất, thi công hệ thống tiếp đất:
+-	Công tác thi công hệ thống tiếp đất được thi công ngay sau khi hoàn thành công tác lợp mái và được thực hiện với trình tự sau:
+-	Đào các hệ thống hố rãnh của hệ thống tiếp đất với định dạng và kích thước như trong bản vẽ mặt bằng bố trí các hệ thống tiếp đất và bản vẽ chi tiết hệ thống tiếp đất.   Lưu ý không ảnh hươởng tới kết cấu móng nhà.
+-	Đóng cọc tiếp đất, rải dây tiếp đất, hàn nối hệ thống tiếp đất như đã chỉ định rõ trong thiết kế.
+-	Sau khi rải dây tiếp đất và hàn nối cọc xong, Đơn vị thi công ngay lập tức cho đo kiểm tra điện trở tiếp đất của hệ thống cọc tiếp đất. Nếu điện trở tiếp đất của hệ thống tiếp địa chống sét đo được nhỏ hơn 10 thì công tác thi công hệ thống tiếp đất được coi là hoàn thành. Nếu chưa đạt yêu cầu, Đơn vị thi công sẽ đệ trình lên tư vấn giám sát và chủ đầu tư bổ sung các biện pháp tiếp đất khác nhươ đóng thêm cọc hoặc bổ sung tia thoát sét hoặc làm giếng tiếp địa và tiếp đất bản đồng. San lấp hoàn trả mặt bằng thi công. 
+b.	Lắp đặt hệ thống kim thu sét: 
+-	Sau khi đã hoàn thành phần mái, Đơn vị thi công tiến hành lắp đặt hệ thống chống sét. Đơn vị thi công tiến hành chế tạo bộ gá và chân bật vào mái nhà trên cơ sở tính toán chi tiết kết cấu gá lắp đảm bảo bền vững mà không làm ảnh hưởng tới kết cấu chất lượng công trình.
+-	Quá trình lắp đặt sẽ đươợc cán bộ kỹ thuật trực tiếp kiểm tra nhằm đảm bảo liên kết chắc chắn với hệ khung mái, chịu được tác động xoắn vặn của gió bão, đảm bảo mỹ quan điểm cao nhất của công trình. Chi tiết trình tự lắp đặt như sau: 
++ Chuẩn bị các dụng cụ và vật tư cho việc lắp đặt, đấu nối.
++ Rải dây thoát sét đúng kỹ thuật: dây thoát sét được đi song song với tường, theo trụ đỡ hàn vào kim thu sét. Sau khi lắp đặt xong dây dẫn sét phải nối đất ngay trươớc khi tiến hành lắp đặt kim thu sét để tránh tường hợp sét đánh vào kim trong khi đang lắp đặt mà chưa được tiếp đất gây thiệt hại về tài sản và tính mạng của công nhân.
++ Kiểm tra lại về kỹ thuật và an toàn của hệ thống.
+2.3.5.	Biện pháp lắp đặt thiết bị vệ sinh:
+Công tác lắp đặt thiết bị:
+-	Thiết bị vệ sinh hầu hết làm bằng sứ, do đó để đảm bảo an toàn cho thiết bị Nhà thầu sẽ tiến hành lắp đặt hết sức cẩn thận và sau đó phải có biện pháp bảo vệ chu đáo. Nhà thầu sẽ chỉ lắp đặt thiết bị vệ sinh khi các công tác xây trát ốp, lát và trần đã hoàn thành. Trên toàn bộ bề mặt tiếp xúc của thiết bị vệ sinh với sàn hay tường gạch men Nhà thầu sẽ tạo một lớp đệm mỏng bằng keo Silicon để kê êm chống va đập gây rạn nứt. Các ghép nối giữa thiết bị và đường ống đều được sử dụng các loại gioăng do nhà sản xuất cung cấp đồng bộ hoặc chỉ định, các thiết bị được lắp đặt một cách ngay ngắn và cân đối. Một số thiết bị như lavabo và tiểu treo phải được cố định vào tường bằng nở thép mạ kẽm hoặc nở INOX. Thiết bị lắp đặt xong phải được xối nước chạy thử, nước cấp phải đủ áp lực đầu vòi theo tiêu chuẩn Việt Nam hiện hành 20 TCVN 51 - 84 và TCVN 4519 - 88. Nước thoát phải nhanh, các xi phông phải kín khít không chảy nước ra sàn. Xí bệt khi xả phải thấy dấu hiệu rút nước.
+3.	Tiến độ thi công:
+3.1. Tiến độ thi công: 
+ (Theo bảng tiến độ thi công đính kèm)
+3.2. Thời gian thực hiện gói thầu: 
+Nhà thầu chúng tôi cam kết thời gian thi công không vượt quá 150 ngày.
+4.	Biện pháp bảo đảm chất lượng:
+4.1. Hệ thống tổ chức quản lý thi công của nhà thầu.
+Nhà thầu sẽ lập hệ thống quản lý chất lượng phù hợp với yêu cầu của công trình, trong đó bộ phận giám sát chất lượng là những người có năng lực đáp ứng theo yêu cầu. 
+ 
+a.	Chỉ huy trưởng công trường: 
+-	Đại diện cho Nhà thầu ở công trường, có trách nhiệm điều hành toàn bộ công trình - điều hành các đơn vị thi công về tiến độ, khối lượng, chất lượng, an toàn, quan hệ trực tiếp với chủ đầu tư để giải quyết các vấn đề liên quan đến việc thi công.
+b.	Bộ phận cán bộ kỹ thuật, giám sát chất lượng: 
+-	Gồm các kỹ sư có kinh nghiệm chuyên ngành phụ trách trực tiếp thi công và giám sát các hạng mục công việc. Chỉ đạo thi công hạng mục của mình, chịu trách nhiệm trước chỉ huy trưởng, được chỉ huy trưởng phân công thực hiện một số vấn đề liên quan đến việc thi công như: Thay đổi thiết kế, phát sinh công việc, thay đổi vật tư, vật liệu đưa vào thi công công trình, tổ chức kiểm tra kỹ thuật v.v ... thống nhất chương trình nghiệm thu, bàn giao với Chủ đầu tư. Chịu trách nhiệm tổ chức lập hồ sơ hoàn công, thanh quyết toán theo giai đoạn và toàn bộ công trình. 
+c.	Đội ngũ công nhân: 
+-	Các đội ngũ công nhân kỹ thuật lành nghề có tay nghề cao, đủ số lượng tham gia thi công xây dựng công trình như: Các đội thợ bê tông, thợ cốt thép, thợ coppha, thợ xây, thợ điện, thợ nước, ... Trong mỗi giai đoạn, được điều đến công trường để kịp tiến độ thi công.
+d.	Quản lý máy móc thiết bị thi công:
+-	Các máy móc phục vụ cho thi công trên công trường có phiếu kiểm định của cơ quan có thẩm quyền cho phép hoạt động và phải được bảo hiểm của các cơ quan chức năng. Theo tiến độ và yêu cầu công việc, các máy móc thiết bị sẽ được điều động đến công trường, đảm bảo đáp ứng yêu cầu phục vụ thi công.
+-	Các thiết bị thi công tập kết tại công trường phải được quản lý chặt chẽ, kiểm tra thường xuyên về số lượng và tình trạng của thiết bị. Khi di chuyển thiết bị ra khỏi công trường phải có giấy điều động của Công ty và cho phép di chuyển của chỉ huy công công trường.
+e.	Trang thiết bị kiểm tra, phòng thí nghiệm:
+-	Nhà thầu sẽ thường xuyên kiểm tra chất lượng trong nội bộ bằng các dụng cụ kiểm tra chất lượng: Máy bắn bê tông, máy trắc đạc, máy kiểm tra mác vữa... Nghiêm ngặt trong việc lấy mẫu thử (bê tông, xi măng, cốt thép, gạch...) kiên quyết không đưa vào công trình những vật liệu không đúng tiêu chuẩn, chủng loại đã được ghi trong hồ sơ thiết kế. Việc kiểm tra chất lượng nội bộ thường xuyên được giao cho phòng.
+-	Công tác kiểm tra, giám sát chất lượng các loại vật liệu, công tác xây lắp được thực hiện cả trên hiện trường và trong phòng thí nghiệm độc lập hợp chuẩn được Chủ đầu tư và TVGS chấp thuận để đánh giá chất lượng vật liệu, chất lượng sản phẩm.
+4.2. Biện pháp đảm bảo chất lượng vật tư, vật liệu, thiết bị để phục vụ công tác thi công:
+-	Tất cả các loại vật liệu sử dụng cho công trình phải đảm bảo đầy đủ các quy định về Tiêu chuẩn kỹ thuật theo hồ sơ thiết kế kỹ thuật được phê duyệt, chứng chỉ của mẫu thí nghiệm, tuân thủ theo quy định hiện hành của Nhà nước, được sự chấp thuận của TVGS và Chủ đầu tư trước khi thi công.
+-	Nhà thầu tổ chức thí nghiệm vật liệu sử dụng cho công trình theo cả hai yêu cầu là:
++ Tổ chức thí nghiệm tại hiện trường.
++ Tổ chức thí nghiệm trong phòng thí nghiệm.
+-	  Tất cả các công tác thí nghiệm cần thiết theo quy định và yêu cầu của Chủ đầu tư trong hồ sơ mời thầu sẽ được trình kết quả lên Chủ đầu tư và Tư vấn giám sát.
+a. Bảng danh mục vật tư, vật liệu, thiết bị đưa vào sử dụng thi công gói thầu: Nhà thầu tuân thủ sử dụng thi công đúng các loại vật tư, thiết bị đã cam kết trong hồ sơ dự thầu và được Chủ đầu tư và Tư vấn giám sát chấp thuận. (Xem bảng kê và cam kết nguồn gốc, xuất xứ vật tư, thiết bị đưa vào sử dụng thi công ở phần dự toán dự thầu).
+b. Quy trình và các biện pháp quản lý chất lượng vật tư, vật liệu, thiết bị:
+-	Vật tư, vật liệu, thiết bị trước khi nhập vào công trường phải được kiểm tra, thí nghiệm. Khi có kết quả kiểm tra, thí nghiệm đạt yêu cầu, bộ phận vật tư báo với cán bộ phụ trách chất lượng để kiểm tra khi được chấp nhận bằng biên bản nghiệm thu nội bộ thì mới báo cho kỹ sư TVGS nghiệm thu. Nếu được đồng ý thì nhập vật tư đó về công trường để sử dụng. Trong quá trình thi công bộ phận vật tư lấy mẫu thí nghiệm vật liệu theo tiêu chuẩn quy định. Khi có mẫu thí nghiệm không đạt yêu cầu thì lập tức đình chỉ việc nhập vật liệu đó vào công trường và tìm kiếm vật tư thay thế phù hợp. Trong trường hợp cán bộ phụ trách chất lượng yêu cầu phải làm thêm mẫu thí nghiệm thì bộ phận vật tư phải đáp ứng đầy đủ.
+-	Các mẫu vật tư, vật liệu, thiết bị sau khi đã được bên A chấp thuận, khi giao về công trường phải thực hiện như sau:  
++ Cung cấp vật tư, thiết bị theo đúng mẫu được đã Bên A duyệt. Các lý lịch sản xuất, gia công, xuất xưởng, các kết quả thử nghiệm liên quan đến vật liệu cũng phải được trình nộp đồng thời khi hàng giao đến công trường. 
++ Bên giao, nhận vật tư, thiết bị giữa các bộ phận trong Công ty phải thực hiện các thủ tục giao nhận, các biên bản lưu giữ trong đó thể hiện rõ số lượng, chất lượng, phương tiện vận chuyển, thời gian giao nhận, ...
+-	Biện pháp tổ chức quản lý bố trí kho bãi để bảo quản vật tư, thiết bị thi công:
++ Vật liệu phải bảo quản đúng theo hướng dẫn của nhà sản xuất, đúng yêu cầu về kho, bãi, về cách đóng, mở gói, chuyên chở...
++ Kho chứa vật tư thi công: Kho phải đảm bảo chắc chắn, nền cao để tránh hư hỏng vật tư do nước mưa hoặc các yếu tố khác. 
++ Kho chứa thiết bị: Các thiết bị nhập khẩu hoặc các thiết bị chính sẽ được chứa tại kho công ty, chỉ vận chuyển đến công trình khi đã chuẩn bị mặt bằng và hội đủ các điều kiện về phương tiện vận chuyển, phương án lắp đặt được duyệt để đảm bảo thời gian lắp đặt trên công trình ngắn nhất.
+-	Khi sử dụng vật liệu, thiết bị cho các công tác thi công:
++ Kiểm tra trước khi sử dụng xem chất lượng vật liệu, thiết bị đó có còn đáp ứng đúng yêu cầu không.
++ Vệ sinh vật liệu trước khi sử dụng.
+c. Giải pháp xử lý vật tư, vật liệu, thiết bị phát hiện không phù hợp với yêu cầu của gói thầu:
+-	Đối với vật tư không đạt yêu cầu vì bị phát hiện là hư hỏng, thiếu hụt hoặc không đúng chủng loại thì sẽ được thì Nhà thầu sẽ gắn thẻ “Không đạt yêu cầu” và được xếp vào vị trí riêng trong kho. Sau đó chỉ huy trưởng công trình xem xét và thông báo cho khách hàng bằng văn bản. Khách hàng tự đề xuất phương án giải quyết với Nhà thầu thi công. Nếu thời gian trả lời của khách hàng chậm trễ ảnh hưởng tới tiến độ thi công thì Nhà thầu sẽ đề nghị trả lại số hàng không đạt yêu cầu sẽ được thủ kho xếp sắp phân loại theo từng nhóm về tính chất vật tư cũng như tính chất vật liệu để tiện bảo quản. Tất cả vật tư nhập kho đều phải có chứng chỉ chất lượng và nguồn gốc xuất xứ. Mọi vật tư có nguồn gốc xuất xứ không phù hợp với quy định trong hồ sơ mời thầu hoặc dự thầu đều phải được trả lại nhà cung cấp. Nhà thầu giữ các chứng chỉ gốc để đóng vào hồ sơ bàn giao sau này. Tuy nhiên Nhà thầu sẽ gửi một bản sao các chứng chỉ chất lượng và nguồn gốc cùng với mẫu vật tư cho TVGS để tiện cho công tác kiểm tra đối chiếu.
+
+ 
+SƠ ĐỒ QUẢN LÝ KIỂM TRA, GIÁM SÁT
+CHẤT LƯỢNG VẬT TƯ ĐẦU VÀO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-	Kế hoạch kiểm tra, nghiệm thu công việc xây dựng, nghiệm thu giai đoạn thi công xây dựng hoặc bộ phận (hạng mục) công trình xây dựng, nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng
+d. Quy trình lập biện pháp thi công, thi công, kiểm tra, nghiệm thu chất lượng công việc, giai đoạn thi công, nghiệm thu hoàn thành đưa vào sử dụng:
+Để đảm bảo thi công các hạng mục công trình đúng kỹ thuật, mỹ thuật, giảm bớt sai sót, nhà thầu đề ra quy trình thực hiện, kiểm tra từng công việc như sau:
+-	Bộ phận kỹ thuật của công trường xem xét kiểm tra bản vẽ để triển khai thi công. Đề ra biện pháp thi công, kế hoạch thi công. Nếu phát hiện bản vẽ bị sai sót, bất hợp lý hoặc các cấu kiện cần phải triển khai chi tiết thì phải báo cáo lên chỉ huy công trường để giải quyết.
+-	Sau khi nhận được báo cáo, chỉ huy công trường công ty sẽ tiến hành triển khai chi tiết các cấu kiện, đề ra phương hướng sử lý các sai sót và trình duyệt với Chủ đầu tư và Tư vấn thiết kế, Tư vấn giám sát để xem xét giải quyết. Trình duyệt các loại vật tư trước khi đưa vào thi công.
+-	Khi đã được phê duyệt bản vẽ, biện pháp, các mẫu vật tư nhà thầu tiến hành triển khai thi công trong sự kiểm tra giám sát của của kỹ thuật bên A, Tư vấn giám sát, Tư vấn thiết kế.
+-	Các bộ phận kỹ thuật, dưới sự chỉ đạo của chỉ huy trưởng công trường, phải tuyệt đối tuân thủ các điều kiện kỹ thuật qui định cho công trình, các qui trình, qui phạm đề ra và các yêu cầu của thiết kế. 
+-	Bộ phận quản lý chất lượng sẽ lập sổ nhật ký công trường để cập nhật hàng ngày các yếu tố về điều kiện thi công như thời tiết, tiến trình thi công hay những thay đổi, bổ sung thiết kế, những vi phạm có thể xảy ra gây ảnh hưởng đến chất lượng công trình. 
+-	Bộ phận quản lý chất lượng chịu trách nhiệm chỉ đạo lấy mẫu thí nghiệm về vật liệu thi công. Các mẫu này được lưu giữ, trình khi nghiệm thu, như lý lịch xuất xưởng của các loại vật liệu giao đến công trình. 
+-	Trước khi chuyển bước thi công, nhà thầu sẽ tiến hành kiểm tra nghiệm thu nội bộ. Nội dung kiểm tra theo các tiêu chuẩn kỹ thuật.
+-	Sau khi kiểm tra, nghiệm thu nội bộ hoàn tất mới tiến hành nghiệm thu với Chủ đầu tư, Tư vấn giám sát.
+4.3. Biện pháp đảm bảo chất lượng trong thi công của gói thầu:
+a.	Biện pháp đảm bảo chất lượng thi công ván khuôn, đà giáo:
+-	Cốp pha được sử dụng là cốp pha thép định hình kết hợp cốp pha gỗ với chất lượng bề mặt và cường độ phải đảm bảo để gia công. Các loại văng, chống cốp pha kết hợp giữa chống gỗ, chống thép điển hình dây néo, tăng đơ, đà giáo được tính toán đảm bảo an toàn cho cấu kiện khi đổ bê tông.
+-	Kiểm tra vị trí, cao độ các vạch sơn (tim, cốt) quy định để đảm bảo cốppha, được ngay thẳng và phẳng.
+-	Gia công và lắp dựng ván khuôn phải đảm bảo độ ổn định, bề mặt ván khuôn phải trơn tru, kín góc, kín nước, đúng kích thước hình học.
+-	Kiểm tra kích thước, độ ổn định, kín khít của cốp pha, v.v. Tất cả các thông số kiểm tra trên sẽ được so sánh với thiết kế và các chỉ tiêu kỹ thuật cho phép, được cán bộ TVGS nghiệm thu đạt yêu cầu mới tiến hành đổ bêtông.
+-	Công tác gia công, lắp đặt và tháo dỡ ván khuôn phải tuân thủ chặt chẽ theo quy định của TCVN 4453-1995.
+b.	Biện pháp đảm bảo chất lượng thi công cốt thép:
+-	Cốt thép trước khi đưa đến công trường phải có phiếu xuất xưởng, chất lượng của lô hàng và lấy mẫu để kiểm tra theo TCVN 197-1985 và TCVN 198-1985.
+-	Trên công trường chúng tôi dùng thước kẹp, thước thép để kiểm tra đường kính và các kích thước hình học của cốt thép trước khi gia công. Trong quá trình gia công chúng tôi kết hợp máy và thủ công gia công cốt thép để đảm bảo các kích thước hình học, hình dạng của cốt thép sau khi gia công đúng theo thiết kế.
+-	Cốt thép được bảo quản riêng theo từng nhóm và phải có biện pháp chống ăn mòn, chống gỉ, chống bẩn. Nếu cốt thép bị bám bẩn, han gỉ, nhà thầu sẽ có biện pháp làm vệ sinh, đánh gỉ trước khi nghiệm thu và đổ bê tông.
+-	Trước khi đổ bê tông phải tiến hành kiểm tra định vị tim, cốt, kiểm tra chủng loại, số lượng, vị trí lắp đặt của cốt thép.
+-	Công tác gia công, lắp đặt cốt thép phải tuân thủ chặt chẽ theo quy định của TCVN 4453-1995.
+c.	Biện pháp đảm bảo chất lượng thi công bêtông:
+-	Bê tông sẽ được thiết kế xây dựng cấp phối trước khi triển khai thi công trên cơ sở các loại vật tư đã được TVGS chấp thuận.
+-	Tại công trường Nhà thầu chuẩn bị đầy đủ dụng cụ, khuôn mẫu để thử độ sụt bê tông; khuôn mẫu để đúc mẫu thí nghiệm cường độ bê tông. Mẫu thí nghiệm bêtông được lấy trong quá trình đang thi công các hạng mục trên công trường. Số lượng, kỹ thuật đúc mẫu, bảo dưỡng, thí nghiệm mẫu tuân theo quy định của TCVN 3015-1993.
+-	Trong suốt quá trình đổ bê tông phải có một nhóm thợ ván khuôn, cốt thép thường trực để xử lý những sự cố xảy ra. Thường xuyên theo dõi độ ổn định của cốt pha, cốt thép, điều phối đầm và đổ bê tông đảm bảo liên tục không bị gián đoạn, phân tầng, phân lớp. Đảm bảo đúng hình dạng, kích thước, tim, cốt cấu kiện bê tông theo thiết kế.
+-	Sau khi đổ xong bêtông phải tiến hành bảo dưỡng bêtông tuân theo quy định của TCVN 4453-1995 và TCVN 8828-2011.
+d.	Biện pháp đảm bảo chất lượng thi công xây gạch:
+-	Gạch được sử dụng phải đảm bảo đúng kích thước theo tiêu chuẩn, vuông thẳng sắc cạnh, không có khuyết tật, đạt cường độ thiết kế. Vữa xây sẽ được thiết kế xây dựng cấp phối trước khi triển khai thi công trên cơ sở các loại vật tư đã được TVGS chấp thuận.
+-	Dùng máy trắc đạc xác định, kiểm tra tim trục, cốt sàn, vạch vị trí khối xây theo đúng thiết kế.
+-	Kiểm tra độ thẳng đứng của mặt bên và các góc của khối xây, cứ 0,5m theo chiều cao tường một lần bằng thước tầm, dây dọi, thước góc. Khi phát hiện nghiêng thì phải sửa ngay.
+-	Kiểm tra độ ngang bằng từng hàng gạch bằng ni vô.
+-	Khi xây xong một khối xây, kiểm tra toàn thể về độ thẳng, độ phẳng của khối xây một lần nữa, yêu cầu đạt được là: ngang bằng, thẳng đứng, vuông góc, mạch không trùng, thành một khối đặc chắc.
+-	Công tác xây phải tuân thủ chặt chẽ theo quy định của TCVN 4085-1985.
+e.	Biện pháp đảm bảo chất lượng thi công hoàn thiện:
+-	Kiểm tra lại các trục, mốc cao độ trước khi thi công.
+-	Kiểm tra chất lượng các loại vật liệu, kích thước theo đúng yêu cầu thiết kế.
+-	Tất cả các vật tư đưa vào sử dụng cho công trình đều phải được Chủ đầu tư và TVGS chấp thuận về mẫu mã, loại hàng, cơ sở sản xuất và phiếu kiểm nghiệm chất lượng.
+-	Các loại vật liệu được bảo quản tốt tại kho tuỳ theo từng loại vật liệu.
+-	Thường xuyên kiểm tra độ phẳng, thẳng bằng máy trắc đạc, dây dọi, thước 2m và thước nivô để đảm bảo công tác hoàn thiện đạt yêu cầu về chất lượng và thẩm mỹ cao.
+-	Lau chùi sạch vữa và các vật liệu khác bám dính trên bề mặt của cấu kiện đã hoàn thiện.
+-	Công tác hoàn thiện phải tuân thủ theo quy định của TCVN 5674-1992 và TCVN 9377 1-3:2012.
+f.	Biện pháp đảm bảo chất lượng thi công các hệ thống kỹ thuật:
+-	Tất cả vật tư, thiết bị đưa vào sử dụng cho công trình đều phải được Chủ đầu tư và TVGS chấp thuận về mẫu mã, loại hàng, cơ sở sản xuất và phiếu kiểm nghiệm chất lượng.
+-	Trong quá trình thi công phải phối hợp với công tác xây dựng khác để thống nhất kế hoạch đặt sẵn các hộp chờ kỹ thuật, đường ống ngầm trong phần xây dựng cũng như trong quá trình lắp đặt các thiết bị.
+-	Kiểm tra việc lắp đặt bảo đảm đúng vị trí theo hồ sơ thiết kế và các yêu cầu khác theo các tiêu chuẩn thi công và nghiệm thu.
+-	Tất cả các hạng mục thi công khi hoàn thành từng phần sẽ được kiểm tra nội bộ trước khi trình yêu cầu nghiệm thu đến Tư vấn giám sát và Chủ đầu tư. Khắc phục các lỗi thiếu sót sau khi nghiệm thu.
+-	Tất cả các đầu dây đến và đi đều được kiểm tra thông mạch trước khi đấu nối vào thiết bị.
+-	Tất cả đầu dây đấu nối được đánh số đầy đủ.
+-	Tất cả phụ kiện đấu nối phải đảm bảo mới 100%.
+5.	Biện pháp an toàn lao động, vệ sinh môi trường:
+5.1. An toàn lao động:
+-	Biện pháp an toàn lao động hợp lý, khả thi phù hợp với đề xuất về biện pháp tổ chức thi công.
+-	Biện pháp an toàn lao động hợp lý, khả năng phù hợp với đề xuất về biện pháp tổ chức thi công (lưu ý các biện pháp thi công trên cao, lắp đặt hệ thống dàn giáo bằng kim loại bao quanh công trình trong suốt quá trình thi công), đảm bảo an toàn cho người lao động, thiết bị thi công, công trình chính, công trình tạm, công trình phụ trợ, công trình lân cận).
+a.	Biện pháp an toàn lao động trên cao:
+-	Biện pháp tổ chức yêu cầu đối với người làm việc trên cao. 
+-	Tuổi và sức khỏe: Tuổi từ 18 trở lên.
+-	Có giấy chứng nhận đảm bảo sức khỏe do cơ quan y tế cấp. Định kỳ hàng năm phải được kiểm tra sức khỏe ít nhất một lần. Phụ nữ có thai, người có bệnh tim, mạch, điếc hoặc mắt kém không được làm việc trên cao. 
+-	Có giấy chứng nhận đã được huấn luyện về an toàn lao động do chủ nhiệm công trình xác nhận. Được trang bị đầy đủ các phương tiện bảo vệ cá nhân phù hợp với điều kiện làm việc theo chế độ quy định
+-	Công nhân phải tuyệt đối chấp hành kỷ luật và nội quy an toàn lao động khi làm việc trên cao.
+-	Nhất thiết phải đeo dây an toàn tại những nơi đã quy định.
+-	Việc đi lại và di chuyển chỗ làm việc phải được thực hiện đúng nơi, đúng tuyến quy định. Cấm leo trèo để lên xuống các tầng dáo hoặc tầng nhà. Cấm đi lại trên mặt tường, mặt rầm, thanh giàn hoặc các kết cấu lắp ghép khác.
+-	Cấm đùa nghịch, leo trèo qua lan can an toàn.
+-	Không được đi dép không có quai hậu, guốc, giày cao gót khi làm việc.
+-	Trước và trong quá trình làm việc không được uống rượu, bia hoặc hút thuốc.
+-	Công nhân phải có túi dụng cụ và đồ nghề cá nhân. Cấm vứt hoặc ném các loại dụng cụ và đồ nghề hoặc bất kỳ vật gì từ trên cao xuống phía dưới.
+-	Khi trời tối, mưa to, giông bão hoặc có gió mạnh từ cấp 6 trở lên, không được làm việc trên giàn giáo cao, ống khói, đài nước, cột tháp, trụ hoặc rầm cầu, mái nhà hai tầng trở lên.
+-	Cần bố trí công việc hợp lý, sao cho công nhân không phải đi lại hoặc di chuyển vị trí công tác nhiều lần trong ca làm việc.
+-	Thực hiện giám sát, kiểm tra an toàn khi làm việc trên cao
+-	Cán bộ kỹ thuật chỉ đạo thi công, đội trưởng sản xuất và cán bộ chuyên trách an toàn lao động có trách nhiệm thường xuyên giám sát và kiểm tra tình hình an toàn lao động đối với những công việc làm ở trên cao để phát hiện và ngăn chặn kịp thời những hiện tượng làm việc thiếu an toàn.
+-	Hàng ngày, trước khi làm việc, phải kiểm tra an toàn tại vị trí làm việc của công nhân, bao gồm kiểm tra tình trạng giàn giáo, sàn thao tác, thang, lan can an toàn và các phương tiện làm việc trên cao khác.
+-	Phải hướng dẫn cách móc dây an toàn cho công nhân.
+-	Kiểm tra thường xuyên việc sử dụng đúng các phương tiện bảo vệ cá nhân như dây an toàn, mũ bảo hộ, giày và quần áo bảo hộ lao động.
+-	Khi kiểm tra hoặc trong quá trình làm việc, nếu phát hiện thấy có tình trạng nguy hiểm như sàn công tác yếu, giàn giáo bị quá tải, ... thì phải cho ngừng công việc và tiến hành khắc phục, sửa chữa ngay. Sau khi thấy đã bảo đảm an toàn mới cho công nhân tiếp tục làm việc.
+-	Thường xuyên theo dõi nhắc nhở công nhân chấp hành đúng kỷ luật lao động và nội quy an toàn lao động khi làm việc trên cao. Trường hợp đã nhắc nhở mà công nhân vẫn tiếp tục vi phạm nội quy an toàn lao động thì phải cho học tập và sát hạch lại về an toàn lao động, hoặc xử lý theo quy định.
+a1. Biện pháp kỹ thuật:
+-	Các biện pháp an toàn để phòng ngừa ngã cao phải được nghiên cứu, đề xuất và lập cùng với việc thiết kế các biện pháp thi công. Để phòng ngừa tai nạn ngã cao, biện pháp cơ bản nhất là phải trang bị lan can an toàn, các trang thiết bị bảo hộ cá nhân, hoặc giàn giáo để tạo ra điều kiện làm việc an toàn.
+a1-1. Khi không sử dụng giàn giáo:
+-	Tại vị trí làm việc trên cao mà không có lan can an toàn thì công nhân phải được trang bị dây an toàn, ví dụ khi làm việc trên mái nhà, như được mô tả trong hình 5.26.
+                             
+Hình 5.26. Công nhân đeo dây an toàn khi làm việc trên mái nhà không có lan can bảo vệ
+-	Dây an toàn cũng như các đoạn dây để nối dài thêm, trước khi sử dụng lần đầu phải được thử nghiệm độ bền với một lực khoảng 300 KG trong thời gian 5 phút, nếu bảo đảm an toàn mới phát cho công nhân. Kiểm tra và thử nghiệm định kỳ sáu tháng một lần hoặc khi có nghi ngờ về chất lượng dây (ải, mục hoặc bị sờn nhiều vì cọ sát, ...).
+-	Hệ thống thang nôi phải được giữ chân một cách chắc chắn xuống nền không cho thang lật đổ khi có tải trọng ngang bất ngờ xuất hiện (do gió lớn hoặc xe, máy va chạm vào) và bánh xe ở chân thang phải có hệ thống phanh, như trong hình 5.27.
+-	Khi dựng thang tựa, góc nghiêng của thang so với phuơng ngang khoảng 750, hay tỉ lệ giữa chiều cao và bề rộng khi dựng thang là 4:1, là hợp lý nhất, như trong hình 5.28.
+-	Chân thang luôn được đặt trên nền cứng, ngang bằng và phải được cố định chắc chắn, như trên hình 5.29. Không để dầu mỡ, đất, cát hay bùn bẩn ở vị trí đặt thang.
+-	Đầu thang cũng phải được cố định hoặc tì một cách chắc chắn vào công trình, như trong hình 5.30.
+-	Lưu ý vị trí đặt thang không bị ảnh hưởng bởi xe hoặc máy di chuyển trên công trường (như bị chạm phải); không bị đẩy bất ngờ tại vị trí cửa ra vào hoặc của sổ. Nếu không khắc phục được thì phải có người cảnh giới phía dưới.
+-	Không nên làm việc liên tục trên thang quá 30 phút.
+-	Luôn xem xét và cân nhắc khả năng thang bị quá tải do người và dụng cụ làm việc, như thang bị võng, bị nứt, ...
+-	Khi làm việc, không nên đứng trên 3 bậc trên cùng của thang, như trong hình 5.30b) và 5.31.
+-	Không nên làm việc trong tư thế bị với như ở hình 5.7d); Luôn giữ cho người được thẳng theo vị trí các bậc thang trong khi làm việc, như trong hình 5.32
+ 
+
+-	Tuyệt đối tránh trường hợp đứng làm việc ở trên thang như trên hình 5.31: vì khi đó, người làm việc có thể bị mất thăng bằng và ngã. Nên xoay lại thang hoặc dùng loại thang khác phù hợp, sao cho toàn bộ phía trước của người làm việc hướng về phía công việc).
+a1-2. Khi sử dụng giàn giáo:
+-	Đối với những công việc làm ở trên cao phải sử dụng các loại giàn giáo tùy theo dạng công việc, vị trí, độ cao và kinh phí mà chọn loại giàn giáo sử dụng phù hợp như giáo tre, thép ống hoặc giáo treo.
+
+               -	Khi lắp dựng giàn giáo, mặt đất hay mặt nền phải bằng phẳng, ngang bằng, ổn định và không lún sụt. Trong nhiều trường hợp phải san phẳng, đầm chặt và đặt các tấm gỗ kê dưới các chân giáo, như trong hình 5.34. Yêu cầu của nền là phải chịu được ít nhất 4 lần tải trọng tại một chân giáo.
+-	Dựng hoặc đặt các cột hoặc khung giàn giáo phải bảo đảm thẳng đứng và bố trí đủ các giằng neo theo yêu cầu của thiết kế. Có nhiều phương pháp neo giàn giáo vào công trình, trong đó Hình 5.35 Sử dụng khoan để đưa vít nở đường kính trên 20mm vào vị trí dầm biên công trình với chiều sâu từ 100 ~ 150mm. Sau đó, dùng dây thép đường kính khoảng 5mm để liên kết giàn giáo với vít nở này. Tuyệt đối không được neo vào các bộ phận kết cấu kém ổn định như lan can, ban công, mái đua, hoặc ống thoát nước công trình.
+                                                                                                  
+
+-	Giàn giáo bắt buộc phải có hệ thống giằng chéo để giữ ổn định cho cả hệ giàn giáo, như trong hình 5.36.
+-	Phải có lưới hay ván gỗ để ngăn không cho vật liệu rơi xuống người làm việc ở dưới, như trong Hình 5.36.
+-	Hệ giàn giáo phải cách xa các đường dây điện ít nhất 6m.
+-	Sàn thao tác có độ cao từ 1,5m trở lên so với nền phải có lan can an toàn, đặc biệt là ở các tầng giáo, như trong hình 5.37. Lan can an toàn phải có chiều cao tối thiểu 1m so với mặt sàn công tác và có ít nhất 2 thanh ngang để phòng ngừa người ngã cao.
+-	Sàn làm việc bằng gỗ thì phải dày ít nhất là 30mm, không mục, mọt hoặc nứt gãy.
+-	Khe hở của các tấm ván sàn làm việc nếu lớn hơn 10mm thì phải có tấm đậy, tốt nhất là không để chúng lớn hơn 10mm.                     
+-	Các lỗ trống trên sàn làm việc phải có lan can chắn xung quanh.
+-	Để đảm bảo an toàn cho công nhân đi lại, lên xuống giữa các tầng nhà, cũng như lên xuống các tầng trên giàn giáo phải có cầu thang tạm, như trong hình 5.38. Trường hợp tốt nhất là thi công tầng nào làm luôn cầu thang ở tầng đó để công nhân có lối lên, xuống các tầng, hoặc phải bắc thang tạm vững chắc.
+-	Mặt sàn thao tác không được trơn trượt. Nếu sàn làm việc là kim loại thì phải sử dụng loại có gân tạo nhám.
+-	Không được làm việc đồng thời trên hai tầng sàn giàn giáo theo cùng một phương thẳng đứng mà không có biện pháp bảo đảm an toàn.
+-	Khi vận chuyển vật liệu lên giàn giáo bằng cần trục, không được để cho vật liệu va chạm vào giàn giáo. Khi vật liệu còn cách mặt sàn thao tác khoảng 1m, phải hạ vật từ từ và đặt nhẹ nhàng lên mặt sàn làm việc.    
+-	Khi trời mưa to, giông bão hoặc gió mạnh cấp 6 trở lên, không được làm việc trên giàn giáo.
+-	Lúc tối trời hoặc vào ban đêm, chỗ làm việc và lối đi lại phải bảo đảm được chiếu sáng đầy đủ.
+-	Hệ giàn giáo cao làm bằng kim loại, nhất thiết phải có hệ thống chống sét được tính toán bởi những người có chuyên môn.
+b.	Hệ dàn giáo thép bao quanh công trình:
+-	Trong quá trình thi công nhà thầu sẽ lắp đặt hệ thống dàn giáo thép bao quanh công trình để phục vụ thi công hoàn thiện mặt ngoài, đồng thời làm khung đỡ để trao lưới chống bụi cho công trình. 
+-	Trong quá trình thi công lắp đặt dàn giáo thép cần một số lưu ý sau:
++	Công nhân lắp đặt hệ thống dàn giáo phải là người đảm bảo sức khỏe, khi làm việc trên cao phải có bảo hộ và dây an đai an toàn.
++	Hệ thống dàn giáo thép khi lắp đặt phải có hệ thống tiếp địa nối đất an toàn.
++	Hệ dàn giáo phải được neo và công trình chính (liên kết vào cấu kiện bê tông cốt thép)
+c.	Biện pháp đảm bảo an toàn cho dân cư xung quanh:	
+-	Việc thi công công trình ít nhiều cũng sẽ có ảnh hưởng nhất định đến sự an toàn của dân cư xung quanh công trường. Vì vậy, mọi hoạt động của công trường đều phải tuân thủ theo các quy định của chính quyền địa phương. Hạn chế đến mức thấp nhất việc ảnh hưởng đến cuộc sống và an toàn của dân cư xung quanh do quá trình tổ chức thi công trình gây ra.
+-	Nhà thầu lập các biển chỉ dẫn lối đi, làm các hàng rào ngăn cách để giới hạn phạm vi thi công. Có các biển cảnh báo nguy hiểm và báo hiệu khu vực đang thi công.
+-	Mọi chỗ đào bới hoặc tại các vị trí có thể gây nguy hiểm cho người và phương tiện qua lại phải được làm rào chắn và đánh dấu, ban đêm phải treo đèn báo hiệu và cử người bảo vệ để đảm bảo an toàn.
+-	Ở phía ngoài công trình tại cao độ mỗi sàn tầng đều có che lưới để vật liệu không rơi tự do từ trên cao xuống. 
+-	Công tác an toàn trong thi công đào đất; đắp đất; công tác an toàn trong thi công trên cao. 
+d1. Đào đất hố móng:
+-	Khi cốt đáy móng hoặc đáy giằng móng ở dưới cốt đất mà người và thiết bị di chuyển thì bắt buộc phải đào đất hố móng hoặc hào để thi công móng hoặc giằng móng. Hố móng có thể là nông hoặc sâu, thành hố có thể là thẳng đứng hoặc dốc và có thể không được gia cố hoặc có được gia cố. Biện pháp đào đất hố móng hoặc hào có thể là cơ giới như sử dụng các máy xúc hoặc đào thủ công.
+-	Các nguy cơ gây tai nạn lao động khi đào đất hố móng
+-	Vách đất bị sụp, lở và đè lên người làm việc ở dưới
+-	Hố (hào) có vách thẳng đứng với chiều cao vượt quá chiều cao giới hạn đối với từng loại đất.
+-	Hố (hào) đào có mái dốc với góc nghiêng vượt quá độ nghiêng cho phép đối với từng loại đất.
+-	Một số trường hợp như trong quá trình đào hố hoặc hào, vách đất vẫn còn ổn định. Nhưng qua thời gian, đất bị ẩm ướt do mưa hay nước ngầm làm cho lực dính hay lực ma sát trong đất bị giảm, do đó vách đất sẽ bị sụp, lở.
+-	Vách đất còn có thể bị sụp, lở do tác động của ngoại lực như: vật liệu hoặc đất đào lên được chất thành đống gần mép hố đào; Hố (hào) ở gần đường giao thông có thể bị lực chấn động của các phương tiện vận chuyển qua lại và vách đất bị sụp, lở.
+-	Đối với hố (hào) có vách thẳng đứng được gia cố, nếu lắp dựng hoặc tháo dỡ kết cấu chống vách không đúng quy định thì có thể làm mất tác dụng của hệ chống đỡ hoặc gây chấn động mạnh làm cho đất sụp, lở.
+d2. Người bị ngã xuống hố:
+-	Lên hoặc xuống hố (hào) sâu mà không có thang hoặc không tạo bậc ở vách đất của hố (hào).
+-	Leo trèo trên các kết cấu chống vách đất, như trong hình 3.26.
+-	Bị ngã khi làm việc trên mái dốc mà không đeo dây an toàn.
+-	Hố (hào) ở trên hoặc gần đường qua lại mà không có rào ngăn, không có cầu hoặc ván bắc qua, ban đêm không có đèn báo hiệu.
+-	Đất (đá) lăn hoặc rơi từ trên bờ hố xuống người làm việc ở dưới
+-	Đất đào lên đổ sát mép hố mà không có ván chắn. Hình 3.27 và 3.28. Cảnh đất đào lên nhưng đổ quá sát mép hố và không có ván chắn đất tại mép hố. Do đó, có thể đất sẽ rơi xuống lòng hố đào và gây chấn thương cho người làm việc ở dưới. Phương tiện vận chuyển qua lại bờ hố (hào) và làm rơi vãi hoặc hất đất (đá) xuống hố.
+            Đất được đào lên
+
+ Hình 3.27 Đất đổ quá sát mép hố đào          Hình 3.28 Đất rơi xuống người lao động
+d.	 Người lao động bị ngạt do hơi hoặc khí độc
+-	Người lao động bị ngạt do hơi hoặc khí độc thường gặp khi đào các hố sâu hoặc đào đất tại các vị trí như gần các bãi rác lâu năm, các bờ kênh hoặc mương nước thải, ... Hơi hoặc khí độc như các-bô-níc, mê-tan, … có thể xuất hiện bất ngờ trong khi đào đất tại các khu vực đó.
+e.	Tai nạn lao động do đào phải bom, mìn, đường dây cáp điện hoặc các đường ống ngầm:
+-	Trong lòng đất, có rất nhiều vị trí có bom, mìn còn sót lại từ thời chiến tranh, hoặc là nơi chôn đường dây cáp điện hay các đường ống ngầm. Có thể trong quá trình đào đất, máy hoặc người làm việc sẽ bị tai nạn trong trường hợp này.
+•	Các biện pháp đề phòng tai nạn lao động khi đào đất hố móng:
+-	Để đề phòng vách đất bị sụp, lở khi đào hố (hào), có thể phân ra 3 trường hợp sau:
+-	Đào hố có vách thẳng đứng mà không có hệ gia cố và chống vách đất.
+-	Chỉ số được đào hố (hào) với vách thẳng đứng ở đất nguyên thổ, có độ ẩm tự nhiên, không có mạch nước ngầm và xa các nguồn chấn động với chiều sâu nhỏ hơn hoặc bằng chiều sâu tới hạn mà Tiêu chuẩn xây dựng đã qui định.
+-	Theo TCVN-5308-1991 thì chiều sâu tới hạn của hố (hào) có vách thẳng đứng đối với một số loại đất được quy định như sau:
++	Không quá 1m đối với đất cát và đất tơi xốp hoặc đất mới đắp.
++	Không quá 1,25m đối với đất pha cát (á cát).
++	Không quá 1,5m đối với đất pha sét (á sét) và đất sét.
++	Không quá 2m đối với đất rất cứng khi đào phải dùng xà beng hoặc cuốc chim.
+-	Trong các trường hợp khác thì hố (hào) phải được tính toán chiều cao tới hạn, gia cố thành hố (chống vách đất) suốt chiều cao hố hoặc đào hố có mái dốc. Các trường hợp này phải tính toán và lập thành biện pháp thi công cụ thể, được thực hiện bởi các kỹ sư xây dựng. Công nhân cần thực hiện đúng theo các biện pháp đó để đảm bảo an toàn lao động.
+-	Khi đào hố, hào sâu bằng máy ở nơi đất dính, có độ chặt cao thì cho phép đào vách đất thẳng đứng sâu tới 3m, nhưng không được có người ở dưới. Nếu cần có người làm việc ở dưới thì chỗ có người phải chống vách hoặc đào thành mái dốc.
+-	Trong suốt quá trình thi công, phải thường xuyên xem xét tình hình ổn định vững chắc của vách hố (hào). Nếu thấy ở trên vách có các vết rạn nứt có thể bị sụp, lở thì phải ngừng ngay công việc, công nhân phải lên khỏi hố (hào) ngay và có biện pháp kịp thời chống đỡ chỗ đó hoặc phá cho đất chỗ đó sụp, lở luôn để tránh nguy hiểm sau này.
+-	Khi đào hố (hào) sâu với vách đứng, tuyệt đối không được đào kiểu hàm ếch.
+f.	Đề phòng ngạt thở do khí độc
+-	 Khi đào hố (hào), nếu phát hiện thấy hơi hoặc khí khó ngửi, dẫn tới hiện tượng người chóng mặt, khó thở, nhức đầu… thì phải ngừng ngay công việc. Mọi người phải ra xa chỗ đó hoặc phải lên bờ ngay để đề phòng nhiễm độc. Chỉ khi nào đã xử lý xong, bảo đảm không còn hơi, khí độc hoặc nồng độ khí không còn nguy hiểm đến sức khỏe con người thì mới cho tiếp tục thi công. Trường hợp vẫn phải làm việc trong điều kiện có hơi, khí độc thì công nhân phải sử dụng mặt nạ chống hơi khí độc, bình thở ô-xy, …
+-	Trước khi xuống làm việc ở hố (hào) sâu, phải kiểm tra không khí xem có hơi, khí độc bằng dụng cụ đo chuyên dùng. Có thể đưa chim bồ câu hoặc gà con xuống để kiểm tra. Nếu những con vật này vẫn bình thường thì người mới xuống làm việc.
+-	Khi phát hiện có hơi khí độc thì phải dùng quạt hay máy hút khí để giải tỏa.
+-	Biện pháp đảm bảo an toàn cho công nhân thi công trên công trình.
+g.	Khái niệm chung
+-	Phương tiện bảo vệ cá nhân là các thiết bị hoặc dụng cụ được người làm việc sử dụng bằng các cách như: đội (mũ), mặc (áo), xỏ (giầy) hoặc đeo (dây an toàn hoặc khẩu trang) … trong suốt quá trình làm việc, nhằm mục đích ngăn ngừa hoặc giảm bớt những chấn thương hoặc bệnh nghề nghiệp mà cơ thể họ có thể không may gặp phải trong sản xuất.
+-	Tùy theo ngành nghề, mức độ độc hại hoặc nguy hiểm của công việc mà người lao động cần được trang bị các phương tiện bảo hộ cá nhân theo danh mục đã nêu tại Quyết định số 955/1998/QĐ-BLĐTBXH. Các phương tiện bảo hộ cá nhân cho người làm việc trên công trường xây dựng rất phong phú và đa dạng về chủng loại cũng như về yêu cầu sử dụng. Do vậy, những người làm việc trên công trường cần phải biết cách áp dụng đúng phương pháp vào các công việc cụ thể của mình.
+h.	Mũ bảo hộ lao động
+-	Ảnh chụp của một chiếc mũ bảo hộ lao động lao động điển hình được chỉ ra trong hình 1-1. Đây là thiết bị quan trọng đầu tiên đối với những người làm việc trên công trường xây dựng. Nó giúp họ bảo vệ chủ yếu là phần đầu, giảm nhẹ hoặc tránh được những chấn thương do vật liệu hay dụng cụ làm việc có thể rơi vào đầu, hoặc do sự va đập của đầu với các vật cứng, như được chỉ ra trong hai ví dụ ở hình 1-2 và 1-3. Mũ bảo hộ lao động phải được đảm bảo về chất lượng, có xác nhận của cơ quan Nhà nước.
+
+
+
+Vị trí để chỉnh cho mũ được chặt vào đầu
+Phần ngoài mũ	Phần trong mũ
+
+i.	Giầy và ủng công trường
+-	Giầy và ủng dành cho công trường xây dựng có một số đặc điểm khác so với giầy hoặc ủng dùng trong sinh hoạt hoặc trong các ngành khác. Mục đích của nó là để bảo vệ đôi chân cho người công nhân trong quá trình làm việc.
+-	Trên công trường, có nhiều vị trí mà công nhân có thể bị dẫm phải đinh hoặc vật sắc nhọn (sau khi tháo dỡ ván khuôn, đinh có rất nhiều trên các tấm gỗ hoặc xà gồ gỗ; đầu các thanh thép, …). Công nhân cũng có thể bị vật nặng bất ngờ rơi vào chân (khi đang vận chuyển thủ công các vật nặng mà bị tuột tay, trượt ngã, hoặc vật nặng bị đứt dây treo mà rơi xuống, …). Do đó, giầy và ủng công trường phải có đế cứng, mũi giầy cứng như được chỉ ra trong hình 1.4. và 1.5. và phải được xác nhận về chất lượng từ các cơ quan chức năng Nhà nước. Ngoài ra, một yêu cầu nữa khi đi giầy là dây giầy phải được buộc chặt, như được thể hiện trong hình 1.6, nếu không giầy có thể bị tuột trong quá trình làm việc khiến công nhân bị hở bàn chân (là nguyên nhân gián tiếp gây chấn thương hoặc tai nạn lao động).
+                                  
+
+Hình 1-5. Hình ảnh mô tả chân người đi giầy làm bằng chất liệu mềm bị vật nặng rơi vào.
+                                                       
+Hình 1-6. Hình ảnh mô tả việc người công nhân buộc dây giầy cẩn thận trước khi làm việc
+j.	Dây an toàn
+-	Khi người công nhân làm việc trên cao mà không có hệ thống bảo vệ như: lan can an toàn, lưới hoặc đệm mút mềm ở bên dưới, …thì họ cần phải được đeo dây an toàn. Khi đó, họ sẽ không bị rơi và va đập vào các bề mặt cứng hoặc các vật cứng ở phía dưới - bảo vệ được tính mạng của mình.
+-	Hình ảnh của một dây an toàn được thể hiện ở dưới. Dây an toàn phải được xác nhận về chất lượng của các cơ quan Nhà nước và phải được bảo quản theo hướng dẫn của nhà sản xuất. Khi đeo dây an toàn, người công nhân phải thực hiện đúng như huớng dẫn được thể hiện trong hình H1-7, H1-8 với chú ý: (1) Các điểm tì của dây với cơ thể là ở hai đùi và hai vai.
+-	Điểm móc dây gồm hai vị trí: vị trí liên kết với cơ thể là ở sau lưng người đeo dây và vị trí móc dây là ở trên cao so với mặt bằng mà họ đang đứng.
+Hình 1-7. Cách đeo dây an toàn ở phía trước cơ thể người công nhân
+
+                              
+
+
+Hình 1-7. Cách đeo dây an toàn ở phía sau cơ thể người công nhân
+k.	Các phương tiện bảo vệ cá nhân khác
+-	Các phương tiện bảo vệ cá nhân khác như găng tay, kính chống bụi, khẩu trang,… cũng rất cần thiết trong quá trình làm việc của người công nhân, tùy từng đặc điểm và vị trí công việc. Các phương tiện này phải đảm bảo là còn tốt, không bị hư hỏng và cần được bảo quản cẩn thận.
+l.	Phương pháp sơ cứu các trường hợp tai nạn lao động
+-	Trên công trường xây dựng, nhiều tai nạn lao động có thể xảy ra bất ngờ do người làm việc không tuân thủ các qui định về an toàn như: không đội mũ, không đi giầy bảo hộ, không đeo dây an toàn hoặc do bị điện giật,… Hậu quả là họ có thể bị thương nhẹ như sứt da, chảy máu; có thể bị thương nặng và đau đớn về thể xác như bị đinh cắm sâu vào chân hay bị gẫy xương; hoặc họ có thể bị tử vong.
+Hình 1-10. Người cùng làm việc trợ giúp người bị tai nạn            
+-	Trong mọi trường hợp, khi bị tai nạn lao động như vậy thì đầu tiên là họ phải biết phương pháp tự xử lý nếu bị thương nhẹ, hoặc được sơ cứu bởi những người cùng làm việc, như được minh họa trong hình 1-10, khi những người có trách nhiệm chưa kịp có mặt. Sau đó, họ phải được chuyển tới bộ phận y tế của công trường để tuỳ theo mức độ nguy hiểm của tai nạn. Nếu bộ phận y tế không xử lý được thì người bị nạn phải được chuyển tới bệnh viện gần nhất, bằng cách gọi cấp cứu qua đường điện thoại theo số 115.
+m.	Sau đây là phương pháp tự xử lý và sơ cứu người khác bị tai nạn lao động trong một số trường hợp hay gặp nhất.
+p1. Khi dẫm, đạp phải đinh hay vật sắc nhọn:
+•	Đối với vết thương nhẹ:
+-	Vết thương được gọi là nhẹ sẽ có dạng như sứt da, chảy một ít máu, người làm việc không cảm thấy quá đau. Khi đó, họ cần bình tĩnh xử lý theo một số hướng dẫn sau:
+-	Lau (rửa) tay sạch sẽ, rồi dùng tay sạch đó để nặn máu “độc” (có dính nhiều chất bẩn như: gỉ sắt, dầu mỡ, đất hoặc cát…) ra. Sau đó, cố gắng dùng tay hay miếng vải sạch để bịt miệng vết thương hoặc che đậy vết thương, không cho máu tiếp tục chảy hoặc chất bẩn rơi vào, như được mô tả trên hình 1.41. Bằng mọi cách, họ phải khẩn trương tới hoặc nhờ người thông báo cho phòng y tế. Tại đây, họ phải được nhanh chóng rửa và sát trùng vết thương bằng nước oxy già hoặc nước xà phòng đặc. Nhiệm vụ cứu chữa tiếp theo sẽ thuộc về phòng y tế.
+•		Đối với vết thương nặng
+-	Vết thương được gọi là nặng sẽ có dạng như bị đinh cắm sâu vào chân mà không thể rút ra được vì quá đau, hoặc vết thương rất sâu và bị chảy nhiều máu, … Khi đó, họ hầu như không thể tự xử lý được và rất cần sự trợ giúp của những người cùng làm việc.
+-	Nếu người tai nạn bị đinh cắm sâu vào chân thì việc đầu tiên là không được chạm phải vết thương đó và phải khẩn trương đưa họ tới phòng y tế. Ở đây, họ sẽ được xử lý với phương pháp thích hợp.
+Hình 1.41. Bịt kín vết thương bằng miếng vải sạch
+-	Nếu họ bị chảy nhiều máu thì người giúp đỡ phải khẩn trương tìm mọi cách cầm máu như bịt vết thương bằng vải mềm sạch (không dính đất, cát hay dầu mỡ, …). Nếu không có vải thì rửa sạch tay rồi bịt vết thương lại. Một cách khác là dùng dây mềm (vải hoặc dây chun, …) để buộc garô cho cầm máu. Phương pháp buộc là quấn chặt dây đó vào vị trí trên vết thương từ 3 - 4 cm (có thể phải dùng thêm que để quấn dây cho chặt) cho đến khi máu không chảy nữa. Tuy nhiên phương pháp này chỉ sử dụng khi nạn nhân bị đứt động mạch, máu chảy xối xả. Sau đó, chuyển người bị thương tới phòng y tế ngay để kịp thời xử lý.
+p2. Khi bị vật (vật liệu hay dụng cụ, …) rơi vào người (đầu, vai hoặc chân, …):
+•	Đối với vết thương nhẹ
+-	Nếu như người lao động sau khi bị vật rơi vào người mà vẫn tỉnh táo, đứng dậy hay đi lại được, và họ không cảm thấy đau nhiều thì có thể coi như họ bị thương nhẹ. Họ cũng có thể bị xây xước da hay bị chảy máu nhưng không nhiều.
+-	Cách tự xử lý tương như ở phần 1-1.
+•		Đối với vết thương nặng
+-	Khi người bị nạn cảm thấy rất đau đớn, chảy nhiều máu, bị choáng hoặc ngất, những người cùng làm việc phải đưa ngay họ về phòng y tế, hoặc gọi nhân viên y tế mang cáng tới và đưa họ về phòng. Tại đây, họ sẽ được theo dõi và chăm sóc hoặc được chuyển đến bệnh viện.
+-	Nếu người làm việc bị chảy nhiều máu thì cách xử lý tương tự như phần 1-2.
+p3. Khi bị ngã từ trên cao
+•	Đối với vết thương nhẹ
+-	Khi người lao động bị đau nhẹ, xước xát không đáng kể, đầu óc vẫn tỉnh táo và có thể tự đứng dậy đi lại được thì họ coi như bị thương nhẹ. Họ cần phải tới phòng y tế ngay để những người có trách nhiệm khám và chữa trị kịp thời.
+-	Ngoài ra, cách tự xử lý tương tự như trong phần 1-1.
+•	Đối với vết thương nặng
+-	Chấn thương loại nặng thường liên quan tới xương, khớp như như gãy xương, trật khớp. Ngoài ra, các bộ phận khác có thể bị dập, vỡ như đầu hoặc các cơ quan nội tạng, …
+-	Đối với trường hợp nạn nhân bị gẫy xương hở, tức là một phần xương bị gẫy trật ra ngoài da, thì cách xử lý là không được động chạm đến chỗ xương gẫy. Xé hoặc rạch quần áo chỗ có xương gẫy để vết thương được tự do, rồi tiến hành rửa sạch vết thương, sau đó chuyển ngay tới bộ phận y tế.
+-	Đối với nạn nhân bị gẫy xương kín, cần dùng các thanh nẹp bằng gỗ ốp cứng hai bên chỗ bị gãy, buộc bằng dây mềm để giữ ổn định vị trí xương gãy, rồi chuyển ngay tới phòng y tế.
+-	Nếu nạn nhân bị vỡ đầu, dập các cơ quan nội tạng khiến họ rất đau đớn, không còn tỉnh táo thì phải cầm máu cho họ tương tự như đã trình bày ở mục 1-2, rồi chuyển ngay tới phòng y tế.
+p4. Khi bị điện giật
+-	Người bị điện giật sau khi được cắt khỏi nguồn điện, có thể xảy ra hai trường hợp sau: bất tỉnh còn thở hoặc bất tỉnh không thở.
+•	Trường hợp 1: Bất tỉnh còn thở
+-	Lay gọi để kiểm tra mức độ đáp ứng của nạn nhân
+
+-	Để đầu nạn nhân ngửa tối đa, luôn giữ đường thở thông, tránh tụt lưỡi.
+-	Kiểm tra đường thở và nhịp thở của nạn nhân bằng cách ghé tai của mình vào miệng hoặc mũi của nạn nhân xem còn thở không đồng thời đặt tay vào mạch cổ của nạn nhân xem có đập không, mắt nhìn xuống ngực của nạn nhân xem có phập phồng không.
+-	Kiểm tra các tổn thương khác.
+-	Đưa nạn nhân về tư thế nằm nghiêng an toàn nếu nạn nhân còn thở và không có các tổn thương khác. Chú ý: Không đưa nạn nhân về tư thế hồi phục nếu nghi ngờ có tổn thương cột sống.
+-	Thường xuyên kiểm tra mạch, nhịp thở và các dấu hiệu toàn thân khác
+•	Trường hợp 2: Bất tỉnh không thở
+-	Lay gọi để kiểm tra mức độ đáp ứng của nạn nhân.
+-	Để đầu nạn nhân ngửa tối đa, luôn giữ đường thở thông, tránh tụt lưỡi.
+-	Kiểm tra và làm sạch đường thở bằng cách:
+-	Nghiêng đầu và mở miệng nạn nhân
+-	Dùng ngón tay chỏ kiểm tra và lấy dị vật trong miệng (nếu có)
+-	Kiểm tra nhịp thở, mạch của nạn nhân bằng cách: nhìn - nghe - sờ - cảm nhận và bắt mạch.
+-	                                                                
+-	Nếu nạn nhân không thở, không có mạch thì tiến hành hà hơi thổi ngạt và ép tim ngoài lồng ngực như sau:
+-	Tiến hành ép tim ngoài lồng ngực kết hợp với hà hơi thổi ngạt ngay
+-	Cách làm:
++	Đặt nạn nhân nằm ngửa trên nền phẳng, cứng.
++	Dùng 2 bàn tay và lực của 2 cánh tay ép vuông góc lên vị trí 1/3 dưới của đoạn giữa hõm ức trên và hõm ức dưới của nạn nhân với tần số 30 lần ép tim và 2 lần hà hơi thổi ngạt (một chu kỳ).
++	Thực hiện 5 chu kỳ liên tục, sau đó dừng lại kiểm tra mạch, nhịp thở của nạn nhân. Là mên tục cho đến khi nạn nhân có đáp ứng.
+Hình 2.4. Cấp cứu theo phương pháp thổi ngạt
++	Chú ý: Tuỳ từng lứa tuổi và thể trạng của nạn nhân mà ép tim ngoài lồng ngực với lực tương ứng để tránh tổn thương thêm cho nạn nhân (thông thường ép sâu khoảng 3-5 cm). Khi nào dừng ép tim ngoài lồng ngực và hà hơi thổi ngạt:
++	Nạn nhân có đáp ứng: có mạch và thở được.
+•	Có sự trợ giúp của nhân viên y tế.
+-	Hiện trường sơ cứu trở nên không an toàn.
+-	Nạn nhân không có đáp ứng: toàn thân lạnh, mềm nhũn, không thở, không có mạch, da tím tái, đồng tử giãn không đáp ứng với ánh sáng.
+p5. Khi bị bụi hoặc chất bẩn bay vào mắt
+-	Khi người lao động bị bụi hay chất bẩn bay vào mắt, đầu tiên là nên nháy mắt nhiều lần cho bụi hay chất bẩn trôi ra khóe mắt. Nếu mắt vẫn cảm thấy gai, tức là bụi chưa ra được, thì phải nhờ người khác thổi hộ hoặc lấy ra, không nên dùng tay dụi mắt. Sau đó mắt họ phải được rửa bằng nước sạch, rồi tới phòng y tế và dùng thuốc nhỏ mắt phù hợp.
+p6. Khi bị say nắng
+-	Sau một thời gian làm việc dưới ánh sáng mặt trời, người lao động có thể bị say nắng. Khi đó, họ sẽ có các cảm giác như: chóng mặt, đau đầu, buồn nôn, thân nhiệt có thể không tăng hoặc tăng cao tới 42oC, mồ hôi ra ít, mặt đỏ, mạch nhanh, … Trường hợp nặng hơn thì có thể bị ngất hoặc tử vong.
+-	Trong trường hợp này, người cấp cứu nên đưa họ vào nơi râm mát, nới lỏng quần áo, quạt nhẹ và cho uống nước có bổ sung các loại vitamin và muối khoáng. Nếu nạn nhân bị ngất thì phải tiến hành hà hơi, thổi ngạt và bóp tim ngoài lồng ngực, sau đó báo ngay cho cơ sở y tế.
+p7. Khi bị say nóng
+-	Khi làm việc trong điều kiện nóng, người lao động có thể bị say nóng. Biểu hiện chủ yếu là họ sẽ cảm thấy chóng mặt, đau đầu, buồn nôn, thân nhiệt tăng cao tới 40oC, mồ hôi ra nhiều, mạch nhanh, sắc mặt xanh xám, … Trường hợp nặng hơn có thể bị ngất hoặc tử vong.
+-	Cách sơ cứu là đưa người bị nạn ra khỏi môi trường nóng, nới lỏng hoặc cởi hết quần áo ngoài, cho uống nước mát có bổ sung các loại vitamin và muối khoáng. Ngoài ra, có thể chườm bằng nước mát để thân nhiệt hạ từ từ. Nếu nạn nhân bị ngất thì phải tiến hành hà hơi, thổi ngạt và/hoặc bóp tim ngoài lồng ngực, sau đó báo ngay cho cơ sở y tế.
+5.2. Vệ sinh môi trường:
+-	Biện pháp bảo đảm vệ sinh môi trường hợp lý, khả thi phù hợp với đề xuất về biện pháp tổ chức thi công
+-	Biện pháp đảm bảo vệ sinh môi trường hợp lý, khả thi phù hợp với đề xuất về biện pháp tổ chức thi công.
+-	Ban chỉ huy công trường được giao toàn quyền quản lý, giải quyết mọi vấn đề liên quan đến công tác vệ sinh môi trường và thực hiện các thủ tục pháp lý với các cơ quan chính quyền sở tại, với Chủ đầu tư và với người lao động. 
+-	Ban chỉ huy công trường sẽ lập ra các biện pháp bảo đảm vệ sinh môi trường nơi thi công và khu vực lân cận, như biện pháp che chắn, chống bụi, khói, chống ồn, bố trí giờ giấc thi công hợp lý cho từng công tác, nhất là các công tác dễ gây ồn, gây ô nhiễm, sử dụng máy móc thiết bị phù hợp, tuân theo các quy định của Nhà nước về chỉ số tiếng ồn, khói ... 
+-	Các biện pháp bảo đảm vệ sinh, chống ô nhiễm môi trường sẽ được kết hợp chặt chẽ, phù hợp với biện pháp thi công.
+-	Ban chỉ huy công trường sẽ tổ chức một nhóm lao động phục vụ cho công tác vệ sinh môi trường. Bộ phận này sẽ trực tiếp thực hiện các công việc như quét dọn vệ sinh công trường và khu vực lân cận, tưới nước chống bụi, thu gom rác thải trong thi công...
+-	Ban chỉ huy công trường có nhiệm vụ giáo dục ý thức chấp hành các qui định về vệ sinh, bảo vệ môi trường cho lực lượng cán bộ, nhân viên, công nhân tham gia thi công tại công trường thông qua các hoạt động sinh hoạt, lao động hàng ngày, các cuộc họp giao ban giữa Ban chỉ huy với các đội trưởng đội thi công.
+-	Các biện pháp cụ thể bảo đảm vệ sinh, chống ô nhiễm môi trường:
+a.	Công tác chống ồn:
+-	Máy móc trong thi công xây dựng thường là những loại dễ gây ồn, vì vậy không sử dụng các máy móc, phương tiện quá cũ gây tiếng ồn lớn. Đối với các phương tiện giao thông cấm bóp còi to.
+-	Giữ cho các máy móc ở trạng thái hoàn thiện: siết chặt bu lông, đinh vít, tra dầu mỡ thường xuyên.
+-	Quá trình vận chuyển của các thiết bị cơ giới, cung ứng vật tư, lắp dựng cốt thép, cốp pha, tháo cốp pha, ... dễ gây ra những tiếng động lớn vượt quá mức cho phép. Sau đây là những biện pháp nhằm hạn chế những tác động đó:
+-	Giờ hoạt động của các thiết bị cơ giới như xe cẩu, xe tải, ... cần tính toán hợp lý trong ngày làm việc để không ảnh hưởng đến giờ nghỉ và làm việc của khu vực xung quanh.
+-	Khi lắp dựng cốt thép thao tác phải nhẹ nhàng, tránh va chạm nhiều.
+-	Sử dụng các máy móc thiết bị mới, đảm bảo chất lượng, vận hành êm ái.
+b.	Công tác chống bụi, khói:
+-	Công trường xây dựng là nơi thường sản sinh ra nhiều bụi nên chúng tôi sẽ triệt để thực hiện việc phòng chống bụi bằng các biện pháp sau:
+-	Quá trình thi công vận chuyển đất, xe chở nguyên vật liệu, đặc biệt là các vật liệu rời như ximăng, cát, sạn... dễ gây nhiều bụi, để hạn chế khi vận chuyển phải có bạt bao phủ kín.
+-	Trên công trường thường xuyên thực hiện vệ sinh công nghiệp. Đường đi và vị trí làm việc thường xuyên được quét dọn sạch sẽ, nơi tập kết và bảo quản vật liệu phải ngăn nắp gọn gàng. Tất cả các phương tiện ra khỏi công trường phải được phun nước xịt rửa, vệ sinh sạch sẽ, không để bùn đất rơi vãi.
+-	Các vật liệu phế thải không được vứt tự do từ trên cao xuống mà cần cho vào ống dẫn rác hoặc đưa vào thùng và đưa xuống vào thời điểm thích hợp.
+-	Xung quanh công trình theo chiều cao được phủ bạt để chống bụi cho người và công trình.
+-	Để hạn chế khói, biện pháp cụ thể áp dụng là các loại máy gây khói nhiều đều không được sử dụng tại công trường. Chỉ sử dụng các máy móc còn mới, không sử dụng các máy móc, phương tiện quá cũ gây nhiều khói.
+c.	Công tác chống rung:
+-	 Độ rung trong khi thi công được gây ra chủ yếu do các công việc vận chuyển vật liệu, vận hành thiết bị. Nhằm hạn chế cần thực hiện:
+-	Sử dụng các máy móc thiết bị mới, đảm bảo chất lượng, vận hành êm ái.
+-	Bố trí giờ hoạt động giữa các xe máy hợp lý, tránh cộng hưởng khi có nhiều xe máy hoạt động sẽ gây ra rung động lớn.
+-	Thay các bộ phận máy móc, thiết bị phát ra rung động.
+-	Kiểm tra thường xuyên và sửa chữa kịp thời các chi tiết máy bị mòn và hư hỏng hoặc gia công chi tiết máy đặc biệt để khử rung.
+-	Sử dụng công nhân chuyên nghiệp có tay nghề cao vận hành máy móc, thiết bị thi công. Trang bị cho công nhân các dụng cụ phòng hộ cá nhân làm giảm trị số biên độ dao động truyền lên cơ thể khi có rung động chung hoặc lên phần cơ thể tiếp xúc với vật rung động như: giày chống rung, găng tay chống rung...
+d.	 Kiểm soát nước thải các loại:
+-	Trong quá trình tổ chức thi công, nước sinh hoạt, nước mưa và nước dư trong quá trình thi công được thu về hố ga và thoát vào mạng thoát nước của khu vực qua hệ thống rãnh tạm, không để nước chảy tràn lan, đảm bảo mặt bằng luôn luôn khô ráo và không đọng nước.
+-	Các chất thải lỏng không phải là chất độc hại được cho thoát vào hệ thống thoát nước của khu vực.
+e.	Kiểm soát rò rỉ dầu mỡ, hóa chất:
+-	Các loại dầu mỡ do thiết bị, máy móc thải ra trong quá trình thi công không được xả bừa bải ra xung quanh công trường mà phải được thu gom đi đổ đúng nơi quy định.
+-	Các loại hóa chất sử dụng cho thi công cần phải được nhán nhãn tên cụ thể cho từng loại hóa chất, phải được quản lý cẩn thận ở khu vực riêng trong kho, việc cấp phát cho thi công phải được giao nhận chặt chẽ và hướng dẫn quy định sử dụng cho từng loại. Với các hóa chất độc hại nếu lỡ đổ ra môi trường cần có biện pháp thu gom xử lý thích hợp trước khi đem đi đổ đúng nơi quy định, không được thải trực tiếp vào hệ thống thoát nước hay các khu vực khác xung quanh công trường.
+f.	Biện pháp xử lý phế thải công trường:
+-	Chúng tôi sẽ tổ chức một nhóm công nhân quét dọn thường xuyên thâu gom rác xả trong thi công như vỏ bao xi măng, mẫu gỗ cốp pha vụn... tập kết ở nơi quy định để từ đó vận chuyển ra khỏi công trường, đồng thời quy định rằng các loại rác xả trong thi công này không được quăng bừa bãi, mà phải để ở vị trí quy định thuận tiện cho nhân viên vệ sinh thu gom.
+g.	Công tác vận chuyển vật liệu.
+-	Các loại phương tiện vật liệu ra vào công trình phải có biện pháp che chắn cẩn thận, không để vật liệu rời rơi vãi trong quá trính vận chuyển;
+-	Phương tiện trước khi ra khởi công trình phải có hệ thống rửa xe sạch bụi bẩn, tránh gây ô nhiểm môi trường xung quanh.
+-	Hạn chế tiếng ồn trong giờ hành chính và tránh lưu thông cường độ cao trong giờ cao điểm.
+h.	Biện pháp ngập úng các khu lân cận:
+-	Có hệ thống gom nước thải và hệ thống thoát nước mưa riêng biệt, tất cả được thu gom về hố ga trước khi cho thoát ra hệ thống thoát nước của khu vực.
+-	Có hệ thống máy bơm chống ngập cục bộ cho công trình, tránh trường hợp ngập nước công trình gây ảnh hưởng đến các công trình và khu dân cư lân cận.
+-	Ngoài nhiệm vụ tuân thủ các quy định của các cơ quan chức năng của địa phương về việc bảo đảm vệ sinh môi trường, ban chỉ huy công trình còn có nhiệm vụ phối hợp với các cơ quan chức năng, cơ quan chính quyền sở tại trong công tác bảo vệ vệ sinh môi trường ở văn phòng làm việc và khu vực thi công tại công trường.
+-	Các tuyến đường xung quanh công trình phải có hệ thống đèn chiếu sáng vào ban đêm.
+5.3. Biện pháp thu gom và vận chuyển chất thải xây dựng:
+-	Đảm bảo công tác thu gom, phân loại, vận chuyển và xử lý phế thải xây dựng (xà bần) được thực hiện đúng quy định, đảm bảo vệ sinh môi trường, an toàn lao động và không làm ảnh hưởng đến khu vực xung quanh công trình.
+-	Dọn dẹp và thu gom xà bần ngay sau khi thi công xong từng hạng mục.
+-	Sử dụng các dụng cụ thủ công như xẻng, cuốc, xe rùa để vận chuyển ra phạm vi tập kết phế thải để vận chuyển đi đổ bằng ô tô.
+-	Vận chuyển xà bần về khu vực tập kết tạm trong công trình (được bố trí xa khu vực thi công chính, có che chắn, chống bụi).
+-	Xà bần được xúc lên xe ben, có phủ bạt che chắn kỹ lưỡng, không để rơi vãi, gây bụi trên đường.
+-	Chỉ vận chuyển vào thời điểm cho phép, theo đúng tuyến đường quy định của địa phương.
+-	Định kỳ trong ngày hoặc theo khối lượng tập kết, tổ chức vận chuyển đến bãi đổ thải hợp pháp (do địa phương quy định hoặc được chủ đầu tư chấp thuận).
+-	Có nhật ký xe vận chuyển, chứng từ thể hiện điểm đổ thải hợp lệ.
+-	Rải nước định kỳ tại các khu vực có nguy cơ phát tán bụi trong quá trình thu gom xà bần.
+-	Trang bị đầy đủ PPE (giày, găng tay, khẩu trang…) cho công nhân thu gom.
+-	Khu vực tập kết tạm có bảng cảnh báo, rào chắn và nền chịu lực tốt.
+6.	Bảo hành và uy tín của nhà thầu:
+6.1. Bảo hành:
+-	Tuân thủ theo các quy định của Nhà nước về quy trình bảo hành, bảo trì công trình.
+-	Căn cứ Nghị định số 10/2021/NĐ-CP ngày 09/02/2021 của Chính phủ về việc quản lý chi phí đầu tư xây dựng công trình.
+-	Căn cứ Nghị định 15/2021/NĐ-CP ngày 03/3/2021 về quản lý dự án đầu tư.
+-	Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ về quản lý chất lượng và bảo trì công trình xây dựng.
+-	Sau khi nghiệm thu hoàn thành công trình đưa vào sử dụng, chúng tôi có trách nhiệm tổ chức khắc phục những hư hỏng công trình do sai sót của mình gây ra trong quá trình thi công, lắp đặt thiết bị. 
+-	Thời gian bảo hành là 12 tháng kể từ ngày kết thúc hoạt động xây dựng, nghiệm thu hoàn thành bàn giao chính thức công trình.
+-	Trong thời gian bảo hành nếu có sự cố xảy ra Đơn vị thi công chúng tôi sẽ kết hợp với đơn vị quản lý vận hành và các đơn vị có liên quan đến hiện trường để xác định nguyên nhân để kết hợp khắc phục.
+-	Khi hết thời gian bảo hành nếu không có tồn tại khắc phục thì đơn vị thi công chúng tôi sẽ chuyển biên bản xác nhận công trình hoàn thành trách nhiệm bảo hành đến Chủ đầu tư và đơn vị quản lý vận hành để xác nhận hoàn thành trách nhiệm bảo hành theo quy định và giải ngân số tiền bảo hành công trình.
+-	Trường hợp có khắc phục tồn tại trong thời gian bảo hành, đơn vị chúng tôi sẽ tổ chức khắc phục trong thời gian sớm nhất. Nếu quá thời gian yêu cầu của Chủ đầu tư mà nhà thầu chúng tôi không thực hiện các công việc sửa chữa thì Chủ đầu thư có quyền thuê một nhà thầu khác (bên thứ ba) thực hiện các công việc này và toàn bộ chi phí cho việc sửa chữa để chi trả cho bên thứ ba sẻ khấu trừ vào tiền bảo hành của nhà thầu và thông báo bằng văn bản cho nhà thầu giá trị trên, nhà thầu chúng tôi buộc phải chấp thuận giá trị đó.
+-	Đối với thời hạn bảo hành đối với các hạng mục công trình trong quá trình thi công có khiếm khuyết về chất lượng hoặc xảy ra sự cố được nhà thầu sửa chữa, khắc phục thì thời gian bảo hành là 12 tháng.
+(xem văn bản cam kết bảo hành)
+6.2. Nghĩa vụ trong thời gian bảo hành:
+(Văn bản cam kết khắc phục các sự cố, hư hỏng của công trình trong thời gian bảo hành chậm nhất 05 ngày kể từ ngày nhận được thông báo)
+6.3. Uy tín của Nhà thầu thông qua kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định 24/2024/NĐ CP
+(Văn bản cam kết của nhà thầu)
+I.	KẾT LUẬN:
+-	Là đơn vị thi công hoạt động trong lĩnh vực xây dựng cơ bản nhiều năm qua, chúng tôi đã thi công nhiều công trình tương tự như gói thầu này. Tất cả đều được chúng tôi hoàn thành đúng tiến độ và đạt chất lượng như các yêu cầu trong hồ sơ thiết kế và đã được nhiều đơn vị, chủ đầu tư đánh giá cao. 
+-	Nếu được trúng thầu nhà thầu chúng tôi cam kết sẽ hoàn thành công trình đúng tiến độ, đảm bảo chất lượng theo các yêu cầu trong hồ sơ mời thầu. Thi công công trình đảm bảo an toàn và vệ sinh môi trường.
+	
